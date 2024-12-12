@@ -2,7 +2,7 @@
 id: d90ibx8elywzdzmtzubc3gs
 title: Definitions
 desc: ''
-updated: 1733958829266
+updated: 1733960033904
 created: 1733947952809
 ---
 
@@ -116,3 +116,9 @@ created: 1733947952809
 -   <b>Parsing error:</b> An error that occurs when a string cannot be converted into a number. This can happen if the string contains characters that are not numeric.
 -   <b>Argument:</b> A value that is passed to a function when it is called. Arguments are used to provide input to the function.
 -   <b>Parameter:</b> A variable that is used to store the value of an argument in a function. Parameters are defined in the function declaration.
+-   <b>Functioon call:</b> The process of executing a function. This is done by using the function name followed by parentheses. For example, `functionName();`
+-   Loops:</b> A way to repeat a block of code multiple times. Loops can be used to iterate over arrays, objects, or perform a specific task a certain number of times.
+-   hardcoding:</b> Writing values directly into the code instead of using variables. This can make the code less flexible and harder to maintain. For example, `let x = 5;` instead of `let x = value;`
+-   <b>variable scope:</b> The context in which a variable is defined. Variables can have global scope, function scope, or block scope.
+-   <b>Truthy value:</b> A value that is considered true when evaluated in a boolean context. In JavaScript, the following values are considered truthy: `true`, `non-zero numbers`, `non-empty strings`, `objects`, `arrays`, and `functions`.
+-   <b>Falsy value:</b> A value that is considered false when evaluated in a boolean context. In JavaScript, the following values are considered falsy: `false`, `0`, `NaN`, `null`, `undefined`, and `empty strings`.
