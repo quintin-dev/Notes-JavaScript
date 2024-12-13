@@ -2,7 +2,7 @@
 id: d90ibx8elywzdzmtzubc3gs
 title: Definitions
 desc: ''
-updated: 1733960033904
+updated: 1734078187053
 created: 1733947952809
 ---
 
@@ -99,7 +99,7 @@ created: 1733947952809
 -   <b>Initialization:</b> The process of assigning a value to a variable when it is declared.
 -   <b>Undefined Data Type:</b> A variable that has been declared but not assigned a value is of type `undefined`.
 -   <b>console.log():</b> A method used to log messages to the console. This is useful for debugging and testing code.
--   <b>Primitive Data Types:</b> Data types that are not objects and have no methods. The primitive data types in JavaScript are `string`, `number`, `boolean`, `null`, `undefined`, and `symbol`.
+-   <b>Primitive Data Types:</b> Data types that are not objects and have no methods. The primitive data types in JavaScript are `string`, `number`, `boolean`, `null`, `undefined`, `bigint` and `symbol`.
 -   <b>Non-Primitive Data Types:</b> Data types that are objects and have methods. The non-primitive data types in JavaScript are `object` and `function`.
 -   <b>Bracket Notation</b> A way to access the properties of an object using square brackets and a string value. For example, `object['property']`.
 -   <b>Mutation in JavaScript:</b> Changing the value of a variable after it has been declared. eg. `let x = 5; x = 10;`

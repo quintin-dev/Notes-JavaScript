@@ -1,0 +1,192 @@
+---
+id: da3j1ttxzcihle82esnjg8q
+title: Loops
+desc: ''
+updated: 1734084273158
+created: 1734083811153
+---
+
+<style>
+    * { font-size: 18px; }
+    h1 {
+        color: red;
+        font-weight: bold;
+        border-bottom: 2px solid red; 
+        font-family: 'Algerian';
+        text-align: center;
+        font-size: 2em;
+    }
+    h2 { 
+        color: crimson; 
+        font-weight: bold;
+        font-family: 'Algerian'; 
+        border-bottom: 2px solid crimson;
+        font-size: 1.5em;
+    }
+    h3 { 
+        color: rgb(255, 0, 127);
+        font-weight: bold;
+        text-decoration: underline;
+        font-size: 1.2em;
+        font-size: 1.2em;
+    }
+    h4 { 
+        color: rgb(0, 255, 255);
+        font-weight: bold;
+        text-decoration: underline;
+        font-size: 1em; 
+    }
+    h5 { 
+        color: darkblue;
+        font-weight: bold;
+        font-style: italic;
+        font-size: 0.9em;
+    }
+    code {
+        font-family: 'Cascadia Code';
+        border: 1px solid #282A36; 
+        border-radius: 4px; 
+        padding: 1px 4px; 
+    }
+    pre {
+        font-family: 'Cascadia Code';
+        border: 1px solid #282A36; 
+        border-radius: 4px; 
+        padding: 1px 4px; 
+    }
+    p { 
+        font-style: 'Cascadia Code';
+        color: white;
+    }
+    li { 
+        margin-bottom: 10px;
+        font-style: italic;
+        font-weight: bold;
+        color: orange;
+    }
+    ul { 
+        margin-bottom: 10px;
+        font-style: italic;
+        font-weight: bold;
+        color: orange;
+    }
+    b {
+        font-weight: bold;
+        color: rgb(255, 0, 0); 
+    }
+    u {
+        text-decoration: underline;
+        font-weight: bold;
+        font-style: italic; 
+    }
+    a {
+        color: #98c379;
+        text-decoration: none;
+    }
+        a:hover {
+        text-decoration: underline;
+    }
+    i {
+        font-style: italic;
+        color: yellow;
+    }
+</style>
+
+# Loops
+
+Loops are used to execute the same block of code multiple times. There are different types of loops in JavaScript: `for`, `while`, `do-while`, and `for-in`.
+
+## for Loop
+
+The `for` loop is used to execute a block of code a specified number of times. The syntax of the `for` loop is as follows:
+
+```javascript
+for (initialization; condition; increment / decrement) {
+    // code to be executed
+}
+```
+
+The `initialization` statement is executed only once at the beginning of the loop. The `condition` is evaluated before each iteration. If the condition is `true`, the code block is executed. The `increment / decrement` statement is executed after each iteration. The loop continues until the condition is `false`.
+
+Here is an example of a `for` loop:
+
+```javascript
+for (let i = 0; i < 5; i++) {
+    console.log(i);
+}
+```
+
+In this example, the loop will run five times, and the output will be:
+
+```
+0
+1
+2
+3
+4
+```
+
+## while Loop
+
+The `while` loop is used to execute a block of code as long as the condition is `true`. The syntax of the `while` loop is as follows:
+
+```javascript
+while (condition) {
+    // code to be executed
+}
+```
+
+Here is an example of a `while` loop:
+
+```javascript
+let i = 0;
+while (i < 5) {
+    console.log(i);
+    i++;
+}
+```
+
+In this example, the loop will run five times, and the output will be the same as the `for` loop example. The `while` loop is useful when the number of iterations is not known beforehand.
+
+## do-while Loop
+
+The `do-while` loop is similar to the `while` loop, but the code block is executed at least once, even if the condition is `false`. The syntax of the `do-while` loop is as follows:
+
+```javascript
+do {
+    // code to be executed
+} while (condition);
+```
+
+Here is an example of a `do-while` loop:
+
+```javascript
+let i = 0;
+do {
+    console.log(i);
+    i++;
+} while (i < 5);
+```
+
+In this example, the loop will run five times, and the output will be the same as the `for` and `while` loop examples.
+
+## for-in Loop
+
+The `for-in` loop is used to iterate over the properties of an object. The syntax of the `for-in` loop is as follows:
+
+```javascript
+for (variable in object) {
+    // code to be executed
+}
+```
+
+Here is an example of a `for-in` loop:
+
+```javascript
+const person = { name: 'John', age: 30, city: 'New York' };
+for (let key in person) {
+    console.log(key + ': ' + person[key]);
+}
+```
+
+In this example, the loop will iterate over the properties of the `person` object and log the key-value pairs to the console.
