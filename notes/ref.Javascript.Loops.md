@@ -2,7 +2,7 @@
 id: da3j1ttxzcihle82esnjg8q
 title: Loops
 desc: ''
-updated: 1734118481753
+updated: 1734440120434
 created: 1734083811153
 ---
 
@@ -98,7 +98,7 @@ Loops are used to execute the same block of code multiple times. There are diffe
 
 ## for Loop
 
-The `for` loop is used to execute a block of code a specified number of times. The syntax of the `for` loop is as follows:
+The `for` loop is used to execute a block of code a specified number of times. [The syntax of the `for` loop is as follows:
 
 ```javascript
 for (initialization; condition; increment / decrement) {
