@@ -2,7 +2,7 @@
 id: d90ibx8elywzdzmtzubc3gs
 title: Definitions
 desc: ''
-updated: 1734078187053
+updated: 1735426209242
 created: 1733947952809
 ---
 
@@ -122,3 +122,7 @@ created: 1733947952809
 -   <b>variable scope:</b> The context in which a variable is defined. Variables can have global scope, function scope, or block scope.
 -   <b>Truthy value:</b> A value that is considered true when evaluated in a boolean context. In JavaScript, the following values are considered truthy: `true`, `non-zero numbers`, `non-empty strings`, `objects`, `arrays`, and `functions`.
 -   <b>Falsy value:</b> A value that is considered false when evaluated in a boolean context. In JavaScript, the following values are considered falsy: `false`, `0`, `NaN`, `null`, `undefined`, and `empty strings`.
+-   <b>Logical operators:</b> Operators that are used to combine or manipulate boolean values. The logical operators in JavaScript are `&&` (logical AND), `||` (logical OR), and `!` (logical NOT).
+-   <b>Comparison operators:</b> Operators that are used to compare values. The comparison operators in JavaScript are `==` (equal), `!=` (not equal), `===` (strict equal), `!==` (strict not equal), `>` (greater than), `<` (less than), `>=` (greater than or equal to), and `<=` (less than or equal to).
+-   <b>Conditional statement:</b> A statement that executes different code based on a condition. Conditional statements in JavaScript include `if`, `else if`, `else`, `switch`, and `ternary operator`.
+-
