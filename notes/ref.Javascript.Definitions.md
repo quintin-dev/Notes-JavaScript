@@ -2,7 +2,7 @@
 id: d90ibx8elywzdzmtzubc3gs
 title: Definitions
 desc: ''
-updated: 1735426209242
+updated: 1735510733904
 created: 1733947952809
 ---
 
@@ -125,4 +125,9 @@ created: 1733947952809
 -   <b>Logical operators:</b> Operators that are used to combine or manipulate boolean values. The logical operators in JavaScript are `&&` (logical AND), `||` (logical OR), and `!` (logical NOT).
 -   <b>Comparison operators:</b> Operators that are used to compare values. The comparison operators in JavaScript are `==` (equal), `!=` (not equal), `===` (strict equal), `!==` (strict not equal), `>` (greater than), `<` (less than), `>=` (greater than or equal to), and `<=` (less than or equal to).
 -   <b>Conditional statement:</b> A statement that executes different code based on a condition. Conditional statements in JavaScript include `if`, `else if`, `else`, `switch`, and `ternary operator`.
--
+-   <b>Logical expression:</b> An expression that combines boolean values using logical operators. For example, `x && y` or `x || y`.
+-   <b>Comparison expression:</b> An expression that compares two values using comparison operators. For example, `x == y` or `x > y`.
+-   <b>String:</b> A sequence of characters enclosed in single or double quotes. Strings are used to represent text in JavaScript.
+-   <b>Number:</b> A numeric value in JavaScript. Numbers can be integers or floating-point numbers.
+-   <b>Boolean:</b> A data type that represents true or false values. Boolean values are used in conditional statements and logical expressions.
+-   <b>Null:</b> A special value in JavaScript that represents the absence of a value. Null is used to indicate that a variable does not have a value.
