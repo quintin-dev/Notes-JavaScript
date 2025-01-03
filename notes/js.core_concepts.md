@@ -1,9 +1,9 @@
 ---
-id: lyxih4qbpw3f1u5qlwbbb7m
-title: Basics
+id: jawxle1ng01pjmcuih9dlj9
+title: Core_concepts
 desc: ''
-updated: 1735912127758
-created: 1726505571980
+updated: 1735913167342
+created: 1735912262931
 ---
 
 <style>
