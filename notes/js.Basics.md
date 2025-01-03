@@ -2,7 +2,7 @@
 id: lyxih4qbpw3f1u5qlwbbb7m
 title: Basics
 desc: ''
-updated: 1734084559566
+updated: 1735912127758
 created: 1726505571980
 ---
 
@@ -169,5 +169,3 @@ JavaScript's concurrency model is based on an event loop, which allows it to han
 -   <b>Modern</b>: JavaScript is a modern language that is constantly evolving with new features and updates.
 -   <b>Community-driven</b>: JavaScript has a large and active community of developers who contribute to its growth and development.
 -   <b>Versatile</b>: JavaScript can be used for a wide range of applications, including web development, server-side programming, and mobile app development.
-
-## Variable Rules In JavaScript
