@@ -2,7 +2,7 @@
 id: t04qd5lkr9qhmmaok9ek8if
 title: Functions
 desc: ''
-updated: 1735912593406
+updated: 1736032934524
 created: 1735912593406
 ---
 
@@ -91,3 +91,23 @@ created: 1735912593406
         color: yellow;
     }
 </style>
+
+# Functions Syntax in JavaScript
+
+A function is a block of code that performs a specific task. It is executed when "something" invokes it (calls it).
+
+## Function Declaration Syntax
+
+```js
+function functionName(parameters) {
+    // code to be executed
+}
+```
+
+where
+
+-   `functionName` is the name of the function. It is a unique identifier for the function. It is used to call the function. It is optional.
+
+-   `parameters` are the values passed to the function.
+-   `code to be executed` is the block of code that performs the task.
+-
