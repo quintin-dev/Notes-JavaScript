@@ -2,7 +2,7 @@
 id: t04qd5lkr9qhmmaok9ek8if
 title: Functions
 desc: ''
-updated: 1736032934524
+updated: 1736034244699
 created: 1735912593406
 ---
 
@@ -96,7 +96,7 @@ created: 1735912593406
 
 A function is a block of code that performs a specific task. It is executed when "something" invokes it (calls it).
 
-## Function Declaration Syntax
+### Function Declaration Syntax
 
 ```js
 function functionName(parameters) {
@@ -104,10 +104,21 @@ function functionName(parameters) {
 }
 ```
 
-where
+<b>where</b>
 
 -   `functionName` is the name of the function. It is a unique identifier for the function. It is used to call the function. It is optional.
 
--   `parameters` are the values passed to the function.
--   `code to be executed` is the block of code that performs the task.
--
+-   `parameters` are the values passed to the function. They are optional. A function can have zero or more parameters. They are separated by commas. They are used to pass values to the function.
+-   `code to be executed` is the block of code that performs the task. It is enclosed in curly braces `{}`. It is mandatory. It is the code that is executed when the function is called.
+
+### Function Expression Syntax
+
+A function expression is a function that is assigned to a variable. It is not hoisted. It is executed when the variable is called.
+
+```js
+const functionName = function (parameters) {
+    // code to be executed
+};
+```
+
+<b>where</b>
