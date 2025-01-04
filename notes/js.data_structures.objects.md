@@ -2,7 +2,7 @@
 id: r53yjg335vmhgeuvkp4hibh
 title: Objects
 desc: ''
-updated: 1735912489620
+updated: 1736021671702
 created: 1735912489620
 ---
 
@@ -91,3 +91,5 @@ created: 1735912489620
         color: yellow;
     }
 </style>
+
+## The Date Object
