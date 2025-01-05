@@ -2,7 +2,7 @@
 id: 4ayysmpraawxjb15aj8u4n0
 title: Conditionals
 desc: ''
-updated: 1734085847704
+updated: 1736078000994
 created: 1734085507093
 ---
 
@@ -106,21 +106,11 @@ Conditionals are used to perform different actions based on different conditions
 
 The `if` statement executes a block of code if a specified condition is true.
 
-```javascript
-if (condition) {
-    // code to be executed if the condition is true
-}
-```
+![[js.syntax.conditionals#If-Statement-Syntax]]
 
 Here is an example of an `if` statement:
 
-```javascript
-let x = 10;
-
-if (x > 5) {
-    console.log('x is greater than 5');
-}
-```
+![[js.syntax.conditionals#Example]]
 
 In this example, the condition `x > 5` is true, so the output will be:
 
@@ -132,13 +122,7 @@ x is greater than 5
 
 The `if...else` statement executes a block of code if a specified condition is true and another block of code if the condition is false.
 
-```javascript
-if (condition) {
-    // code to be executed if the condition is true
-} else {
-    // code to be executed if the condition is false
-}
-```
+![[js.syntax.conditionals#ifelse-statement-syntax]]
 
 Here is an example of an `if...else` statement:
 
