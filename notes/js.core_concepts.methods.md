@@ -2,7 +2,7 @@
 id: 62omeztyhjifmn09cxdytuc
 title: Methods
 desc: ''
-updated: 1736072203266
+updated: 1736076690889
 created: 1736067199989
 ---
 
@@ -94,12 +94,10 @@ created: 1736067199989
 
 # Methods in JavaScript
 
-A method is a function that is a property of an object. Methods are defined the way normal functions are defined, except that they have to be assigned as the property of an object. ^test
+A method is a function that is a property of an object. Methods are defined the way normal functions are defined, except that they have to be assigned as the property of an object.
 
 ## Defining Methods
 
 Methods are defined the way normal functions are defined, except that they have to be assigned as the property of an object.
 
 ![[js.syntax.methods#defining-methods-syntax]]
-
-[[#^test]]
