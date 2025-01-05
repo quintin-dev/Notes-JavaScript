@@ -2,7 +2,7 @@
 id: t04qd5lkr9qhmmaok9ek8if
 title: Functions
 desc: ''
-updated: 1736034244699
+updated: 1736035283808
 created: 1735912593406
 ---
 
@@ -111,14 +111,46 @@ function functionName(parameters) {
 -   `parameters` are the values passed to the function. They are optional. A function can have zero or more parameters. They are separated by commas. They are used to pass values to the function.
 -   `code to be executed` is the block of code that performs the task. It is enclosed in curly braces `{}`. It is mandatory. It is the code that is executed when the function is called.
 
+#### Example
+
+```js
+function greet() {
+    console.log('Hello, World!');
+}
+```
+
 ### Function Expression Syntax
 
 A function expression is a function that is assigned to a variable. It is not hoisted. It is executed when the variable is called.
 
 ```js
-const functionName = function (parameters) {
+const variableName = function (parameters) {
     // code to be executed
 };
 ```
 
 <b>where</b>
+
+-   `variableName` is the name of the variable the function is being assigned to.
+
+-   `const` is a keyword that declares a constant variable. It is mandatory.
+
+#### Example
+
+```js
+const greet = function () {
+    console.log('Hello, World!');
+};
+```
+
+### Arrow Function Syntax
+
+An arrow function is a shorter syntax for writing function expressions. It does not have its own `this`, `arguments`, `super`, or `new.target`. It is not hoisted. It is executed when the variable is called.
+
+`this` when talking about functions in general refers to the object that the function is a method of. Arrow functions do not have their own `this`. They inherit `this` from the parent scope.
+
+```js
+const variableName = (parameters) => {
+    // code to be executed
+};
+```
