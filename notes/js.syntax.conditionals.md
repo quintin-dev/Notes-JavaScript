@@ -2,7 +2,7 @@
 id: pwojcbap76pralgr6evlrr0
 title: Conditionals
 desc: ''
-updated: 1736078011634
+updated: 1736078185482
 created: 1736077172600
 ---
 
@@ -92,7 +92,7 @@ created: 1736077172600
     }
 </style>
 
-## If Statement Syntax
+## If Statement Syntax [[js.core_concepts.conditionals]]
 
 ```javascript
 if (condition) {
