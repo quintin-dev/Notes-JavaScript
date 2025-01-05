@@ -2,7 +2,7 @@
 id: t04qd5lkr9qhmmaok9ek8if
 title: Functions
 desc: ''
-updated: 1736035283808
+updated: 1736067105166
 created: 1735912593406
 ---
 
@@ -149,8 +149,60 @@ An arrow function is a shorter syntax for writing function expressions. It does 
 
 `this` when talking about functions in general refers to the object that the function is a method of. Arrow functions do not have their own `this`. They inherit `this` from the parent scope.
 
+`arguments` is an array-like object that contains the arguments passed to the function. Arrow functions do not have their own `arguments`. They inherit `arguments` from the parent scope.
+
+`super` is used to call functions on an object's parent. Arrow functions do not have their own `super`. They inherit `super` from the parent scope.
+
+`new.target` is used to determine whether a function was called with the `new` operator. Arrow functions do not have their own `new.target`. They inherit `new.target` from the parent scope.
+
 ```js
 const variableName = (parameters) => {
     // code to be executed
 };
+```
+
+#### Example
+
+```js
+const greet = () => {
+    console.log('Hello, World!');
+};
+```
+
+### Function Constructor Syntax
+
+A function constructor is a built-in function that creates a new function object. It is not recommended to use the function constructor to create functions. It is slower and less secure.
+
+```js
+const variableName = new Function('parameters', 'code to be executed');
+```
+
+<b>where</b>
+
+-   `variableName` is the name of the variable the function is being assigned to.
+-   `new` is a keyword that creates a new object. It is mandatory.
+-   `Function` is a built-in function constructor. It is mandatory.
+
+#### Example
+
+```js
+const greet = new Function('console.log("Hello, World!")');
+```
+
+### Self-Invoking Function Syntax
+
+A self-invoking function is a function that runs as soon as it is defined. It is executed immediately. It is not hoisted.
+
+```js
+(function () {
+    // code to be executed
+})();
+```
+
+#### Example
+
+```js
+(function () {
+    console.log('Hello, World!');
+})();
 ```
