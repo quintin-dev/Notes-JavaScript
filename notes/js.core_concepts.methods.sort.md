@@ -2,7 +2,7 @@
 id: ud9smcs7hiaxvgukb6ya98n
 title: Sort
 desc: ''
-updated: 1736370968879
+updated: 1736371273847
 created: 1736370797095
 ---
 
@@ -96,12 +96,20 @@ created: 1736370797095
 
 The `sort()` method sorts the elements of an array in place and returns the sorted array. The default sort order is ascending, built upon converting the elements into strings, then comparing their sequences of UTF-16 code units values.
 
-```js
-
 ## Syntax
 
+```js
+arr.sort([compareFunction]);
+```
+
+where `compareFunction` is an optional parameter that specifies a function that defines the sort order. If omitted, the array elements are converted to strings, then sorted according to each character's Unicode code point value.
 
 ## Parameters
+
+-   `compareFunction` (Optional) - Specifies a function that defines the sort order. If omitted, the array is sorted according to each character's Unicode code point value.
+-   `a` - The first element for comparison.
+-   `b` - The second element for comparison.
+-   `return value` - A negative value if the first argument is less than the second, zero if the two arguments are equal, and a positive value if the first argument is greater than the second.
 
 ## Return Values
 
@@ -109,5 +117,8 @@ The `sort()` method sorts the elements of an array in place and returns the sort
 
 ## Edge Cases
 
-#  Links
+# Links
+
+```
+
 ```
