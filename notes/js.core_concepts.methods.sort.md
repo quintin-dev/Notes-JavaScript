@@ -2,7 +2,7 @@
 id: ud9smcs7hiaxvgukb6ya98n
 title: Sort
 desc: ''
-updated: 1736543537846
+updated: 1736543593878
 created: 1736370797095
 ---
 
@@ -162,6 +162,5 @@ in this example, the array is sorted numerically in descending order, with the `
 
 ## Links
 
-```
-
-```
+-   [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
+-   [JavaScript.info](https://javascript.info/array-methods#sort)
