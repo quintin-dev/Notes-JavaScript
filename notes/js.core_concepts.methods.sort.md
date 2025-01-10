@@ -2,7 +2,7 @@
 id: ud9smcs7hiaxvgukb6ya98n
 title: Sort
 desc: ''
-updated: 1736371750406
+updated: 1736542255218
 created: 1736370797095
 ---
 
@@ -137,6 +137,15 @@ console.log(array1);
 in this example, the array is sorted as strings, so the default sort order is not correct. The reason this array was sorted as strings is that the `compareFunction` parameter was not provided.
 
 ## Edge Cases
+
+### Edge Case 1
+
+```js
+const array1 = [1, 30, 4, 21, 100000];
+array1.sort((a, b) => a - b);
+console.log(array1);
+// expected output: Array [1, 4, 21, 30, 100000]
+```
 
 # Links
 
