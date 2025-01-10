@@ -2,7 +2,7 @@
 id: ud9smcs7hiaxvgukb6ya98n
 title: Sort
 desc: ''
-updated: 1736542347356
+updated: 1736543494291
 created: 1736370797095
 ---
 
@@ -148,6 +148,17 @@ console.log(array1);
 ```
 
 in this example, the array is sorted numerically, with the `compareFunction` parameter provided. this is an edge case because the array is sorted numerically, not alphabetically which is due to the `compareFunction` parameter.
+
+### Edge Case 2
+
+```js
+const array1 = [1, 30, 4, 21, 100000];
+array1.sort((a, b) => b - a);
+console.log(array1);
+// expected output: Array [100000, 30, 21, 4, 1]
+```
+
+in this example, the array is sorted numerically in descending order, with the `compareFunction` parameter provided. this is an edge case because the array is sorted numerically in descending order, not alphabetically which is due to the `compareFunction` parameter.
 
 # Links
 
