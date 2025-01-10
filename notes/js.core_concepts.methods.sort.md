@@ -2,7 +2,7 @@
 id: ud9smcs7hiaxvgukb6ya98n
 title: Sort
 desc: ''
-updated: 1736543494291
+updated: 1736543537846
 created: 1736370797095
 ---
 
@@ -160,7 +160,7 @@ console.log(array1);
 
 in this example, the array is sorted numerically in descending order, with the `compareFunction` parameter provided. this is an edge case because the array is sorted numerically in descending order, not alphabetically which is due to the `compareFunction` parameter.
 
-# Links
+## Links
 
 ```
 
