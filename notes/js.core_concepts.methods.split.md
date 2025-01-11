@@ -2,7 +2,7 @@
 id: hojtxmdeeiwl0s5vff90cz7
 title: Spli
 desc: ''
-updated: 1736634551068
+updated: 1736634628766
 created: 1736634481961
 ---
 
@@ -96,4 +96,8 @@ created: 1736634481961
 
 ## Syntax
 
-## Example
+## Parameters
+
+## Examples
+
+## Return Values
