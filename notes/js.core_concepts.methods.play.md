@@ -2,7 +2,7 @@
 id: ih7ee3f71q3vvqxnlkoo8jz
 title: Play
 desc: ''
-updated: 1736717462999
+updated: 1736718380203
 created: 1736717434390
 ---
 
@@ -93,3 +93,5 @@ created: 1736717434390
 </style>
 
 ## Definition
+
+## Syntax
