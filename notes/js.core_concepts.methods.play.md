@@ -2,7 +2,7 @@
 id: ih7ee3f71q3vvqxnlkoo8jz
 title: Play
 desc: ''
-updated: 1736807362699
+updated: 1736807464422
 created: 1736717434390
 ---
 
@@ -98,4 +98,11 @@ created: 1736717434390
 
 ## Syntax
 
+```js
+const media = document.querySelector('video');
+media.play();
+```
+
 ## Parameters
+
+The `play()` method does not take any parameters.
