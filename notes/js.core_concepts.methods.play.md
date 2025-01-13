@@ -2,7 +2,7 @@
 id: ih7ee3f71q3vvqxnlkoo8jz
 title: Play
 desc: ''
-updated: 1736718465729
+updated: 1736807362699
 created: 1736717434390
 ---
 
@@ -93,6 +93,8 @@ created: 1736717434390
 </style>
 
 ## Definition
+
+`Play` is a method that is used to play the video. It is a method of the `HTMLMediaElement` interface. It is used to play the video or audio file that is loaded in the media element.
 
 ## Syntax
 
