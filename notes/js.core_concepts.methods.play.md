@@ -2,7 +2,7 @@
 id: ih7ee3f71q3vvqxnlkoo8jz
 title: Play
 desc: ''
-updated: 1736807464422
+updated: 1736808537945
 created: 1736717434390
 ---
 
@@ -106,3 +106,11 @@ media.play();
 ## Parameters
 
 The `play()` method does not take any parameters.
+
+## Examples
+
+## Return Values
+
+## Edge Cases
+
+## Links
