@@ -2,7 +2,7 @@
 id: ih7ee3f71q3vvqxnlkoo8jz
 title: Play
 desc: ''
-updated: 1736883872330
+updated: 1736883913863
 created: 1736717434390
 ---
 
@@ -135,6 +135,8 @@ The `play()` method does not take any parameters.
 ```
 
 ## Return Values
+
+The `play()` method does not return any value.
 
 ## Edge Cases
 
