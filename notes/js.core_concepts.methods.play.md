@@ -2,7 +2,7 @@
 id: ih7ee3f71q3vvqxnlkoo8jz
 title: Play
 desc: ''
-updated: 1736808537945
+updated: 1736883872330
 created: 1736717434390
 ---
 
@@ -108,6 +108,31 @@ media.play();
 The `play()` method does not take any parameters.
 
 ## Examples
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Play Video</title>
+    </head>
+    <body>
+        <video controls>
+            <source src="video.mp4" type="video/mp4" />
+            Your browser does not support the video tag.
+        </video>
+        <button onclick="playVideo()">Play Video</button>
+        <script>
+            function playVideo() {
+                const video = document.querySelector('video');
+                video.play();
+            }
+        </script>
+    </body>
+</html>
+```
 
 ## Return Values
 
