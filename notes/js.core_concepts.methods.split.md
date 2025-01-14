@@ -2,7 +2,7 @@
 id: hojtxmdeeiwl0s5vff90cz7
 title: Spli
 desc: ''
-updated: 1736884264884
+updated: 1736884359130
 created: 1736634481961
 ---
 
@@ -105,9 +105,22 @@ string.split(separator, limit);
 ## Parameters
 
 -   `separator`: The separator to use when splitting the string. This can be a string or a regular expression. If the separator is an empty string, the string is split into an array of each character. If the separator is omitted, the entire string is returned as the first element of the array. The separator is case-sensitive.
+
 -   `limit`: An optional parameter that specifies the maximum number of splits to make. If the limit is provided, the resulting array will have a maximum length of limit - 1. If the limit is not provided, the entire string is split. If the limit is 0, the method returns an empty array.
 
 ## Examples
+
+```js
+const str = 'Hello,World,JavaScript';
+const arr = str.split(',');
+console.log(arr); // Output: ['Hello', 'World', 'JavaScript']
+
+const str2 = 'Hello,World,JavaScript';
+const arr2 = str2.split(',', 2);
+console.log(arr2); // Output: ['Hello', 'World']
+```
+
+in this example, the `split()` method is used to split a string into an array of substrings. The first example splits the string `Hello,World,JavaScript` using a comma as the separator, resulting in an array with three elements: `['Hello', 'World', 'JavaScript']`. The second example splits the same string using a comma as the separator and a limit of 2, resulting in an array with two elements: `['Hello', 'World']`.
 
 ## Return Values
 
