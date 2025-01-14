@@ -2,7 +2,7 @@
 id: hojtxmdeeiwl0s5vff90cz7
 title: Spli
 desc: ''
-updated: 1736884359130
+updated: 1736884452385
 created: 1736634481961
 ---
 
@@ -123,6 +123,13 @@ console.log(arr2); // Output: ['Hello', 'World']
 in this example, the `split()` method is used to split a string into an array of substrings. The first example splits the string `Hello,World,JavaScript` using a comma as the separator, resulting in an array with three elements: `['Hello', 'World', 'JavaScript']`. The second example splits the same string using a comma as the separator and a limit of 2, resulting in an array with two elements: `['Hello', 'World']`.
 
 ## Return Values
+
+-   The `split()` method returns an array of substrings. If the string is empty, the method returns an array with one empty string as the only element.
+-   If the separator is an empty string, the method returns an array of each character in the string.
+-   If the separator is not found in the string, the method returns an array with the entire string as the only element.
+-   If the limit is 0, the method returns an empty array.
+-   If the limit is not provided, the method returns an array with all the splits.
+-   If the limit is greater than the number of splits, the method returns an array with all the splits.
 
 ## Edge Cases
 
