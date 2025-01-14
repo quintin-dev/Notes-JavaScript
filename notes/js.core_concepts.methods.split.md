@@ -2,7 +2,7 @@
 id: hojtxmdeeiwl0s5vff90cz7
 title: Spli
 desc: ''
-updated: 1736634677749
+updated: 1736884109504
 created: 1736634481961
 ---
 
@@ -93,6 +93,8 @@ created: 1736634481961
 </style>
 
 ## Definition
+
+The `split()` method is used to split a string into an array of substrings, and returns the new array. The method takes two parameters: a separator and an optional limit. The separator is used to specify where to split the string, and the limit is used to specify the maximum number of splits to make.
 
 ## Syntax
 
