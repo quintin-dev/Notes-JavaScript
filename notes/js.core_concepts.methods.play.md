@@ -2,7 +2,7 @@
 id: ih7ee3f71q3vvqxnlkoo8jz
 title: Play
 desc: ''
-updated: 1736883913863
+updated: 1736884074885
 created: 1736717434390
 ---
 
@@ -140,4 +140,11 @@ The `play()` method does not return any value.
 
 ## Edge Cases
 
+The `play()` method will not work if the video is not loaded or if the video is not ready to play. In such cases, the `play()` method will return a promise that will be resolved when the video is ready to play. The promise will be rejected if the video is not ready to play. The promise will be resolved with the `undefined` value. The promise is a `Promise` object that represents the completion (or failure) of an asynchronous operation.
+
 ## Links
+
+-   [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/play)
+-   [Can I Use](https://caniuse.com/?search=play)
+-   [W3 Schools](https://www.w3schools.com/tags/av_met_play.asp)
+-   [Video and Audio APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
