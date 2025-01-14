@@ -2,7 +2,7 @@
 id: hojtxmdeeiwl0s5vff90cz7
 title: Spli
 desc: ''
-updated: 1736884452385
+updated: 1736884540698
 created: 1736634481961
 ---
 
@@ -133,4 +133,13 @@ in this example, the `split()` method is used to split a string into an array of
 
 ## Edge Cases
 
+-   If the separator is not found in the string, the method returns an array with the entire string as the only element. For example, `str.split('!')` will return `['Hello,World,JavaScript']`.
+-   If the separator is an empty string, the method returns an array of each character in the string. For example, `str.split('')` will return `['H', 'e', 'l', 'l', 'o', ',', 'W', 'o', 'r', 'l', 'd', ',', 'J', 'a', 'v', 'a', 'S', 'c', 'r', 'i', 'p', 't']`.
+-
+
 ## Links
+
+-   [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
+-   [W3Schools](https://www.w3schools.com/jsref/jsref_split.asp)
+-   [JavaScript.info](https://javascript.info/array-methods#split)
+-   [Can I Use](https://caniuse.com/?search=split)
