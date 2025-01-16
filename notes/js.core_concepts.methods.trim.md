@@ -2,7 +2,7 @@
 id: asfz0jtx7ogz575opk56w6z
 title: Trim
 desc: ''
-updated: 1737068345638
+updated: 1737068442758
 created: 1736972360164
 ---
 
@@ -105,3 +105,15 @@ str.trim();
 ## Parameters
 
 None
+
+## Return value
+
+A new string representing the calling string stripped of whitespace from both ends.
+
+## Edge cases
+
+```js
+console.log('   foo  '.trim()); // 'foo'
+console.log('foo'.trim()); // 'foo'
+console.log(''.trim()); // ''
+```
