@@ -2,7 +2,7 @@
 id: asfz0jtx7ogz575opk56w6z
 title: Trim
 desc: ''
-updated: 1737068286139
+updated: 1737068345638
 created: 1736972360164
 ---
 
@@ -101,3 +101,7 @@ The `trim()` method removes whitespace from both ends of a string. Whitespace in
 ```js
 str.trim();
 ```
+
+## Parameters
+
+None
