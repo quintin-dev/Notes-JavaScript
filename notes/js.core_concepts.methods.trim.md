@@ -2,7 +2,7 @@
 id: asfz0jtx7ogz575opk56w6z
 title: Trim
 desc: ''
-updated: 1737067842558
+updated: 1737068286139
 created: 1736972360164
 ---
 
@@ -95,3 +95,9 @@ created: 1736972360164
 ## Definiton
 
 The `trim()` method removes whitespace from both ends of a string. Whitespace in this context is all the whitespace characters (space, tab, no-break space, etc.) and all the line terminator characters (LF, CR, etc.).
+
+## Syntax
+
+```js
+str.trim();
+```
