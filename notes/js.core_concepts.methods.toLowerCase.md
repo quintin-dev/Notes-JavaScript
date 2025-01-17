@@ -2,7 +2,7 @@
 id: lfiid4bur801ojvqsmc7s92
 title: toLowerCase
 desc: ''
-updated: 1737156050629
+updated: 1737156072670
 created: 1737150625427
 ---
 
@@ -95,3 +95,5 @@ created: 1737150625427
 ## Definition
 
 ## Syntax
+
+## Example
