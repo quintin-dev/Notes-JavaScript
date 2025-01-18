@@ -2,7 +2,7 @@
 id: lfiid4bur801ojvqsmc7s92
 title: toLowerCase
 desc: ''
-updated: 1737240807575
+updated: 1737244391342
 created: 1737150625427
 ---
 
@@ -94,10 +94,12 @@ created: 1737150625427
 
 ## Definition
 
+The `toLowerCase()` method returns the calling string value converted to lowercase.
+
 ## Syntax
 
 ## Parameters
 
-## Example
+## Examples
 
 ## Edge Cases
