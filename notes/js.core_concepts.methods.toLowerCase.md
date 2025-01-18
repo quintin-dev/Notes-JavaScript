@@ -2,7 +2,7 @@
 id: lfiid4bur801ojvqsmc7s92
 title: toLowerCase
 desc: ''
-updated: 1737156154186
+updated: 1737240807575
 created: 1737150625427
 ---
 
@@ -99,3 +99,5 @@ created: 1737150625427
 ## Parameters
 
 ## Example
+
+## Edge Cases
