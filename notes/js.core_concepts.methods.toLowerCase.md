@@ -2,7 +2,7 @@
 id: lfiid4bur801ojvqsmc7s92
 title: toLowerCase
 desc: ''
-updated: 1737244437473
+updated: 1737244469458
 created: 1737150625427
 ---
 
@@ -104,6 +104,13 @@ str.toLowerCase();
 
 ## Parameters
 
+None.
+
 ## Examples
+
+```js
+const str = 'HELLO WORLD';
+console.log(str.toLowerCase()); // Output: hello world
+```
 
 ## Edge Cases
