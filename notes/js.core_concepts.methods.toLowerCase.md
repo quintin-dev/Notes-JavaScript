@@ -2,7 +2,7 @@
 id: lfiid4bur801ojvqsmc7s92
 title: toLowerCase
 desc: ''
-updated: 1737244391342
+updated: 1737244437473
 created: 1737150625427
 ---
 
@@ -97,6 +97,10 @@ created: 1737150625427
 The `toLowerCase()` method returns the calling string value converted to lowercase.
 
 ## Syntax
+
+```js
+str.toLowerCase();
+```
 
 ## Parameters
 
