@@ -2,7 +2,7 @@
 id: lfiid4bur801ojvqsmc7s92
 title: toLowerCase
 desc: ''
-updated: 1737328948113
+updated: 1737328990271
 created: 1737150625427
 ---
 
@@ -118,3 +118,7 @@ console.log(str.toLowerCase()); // Output: hello world
 ```js
 console.log(''.toLowerCase()); // Output: ''
 ```
+
+## Description
+
+The `toLowerCase()` method returns the calling string value converted to lowercase. The method does not affect the value of the string itself since strings in JavaScript are immutable.
