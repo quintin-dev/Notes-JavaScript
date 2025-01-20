@@ -2,7 +2,7 @@
 id: hojtxmdeeiwl0s5vff90cz7
 title: Split
 desc: ''
-updated: 1736972150856
+updated: 1737412038297
 created: 1736634481961
 ---
 
@@ -125,6 +125,7 @@ in this example, the `split()` method is used to split a string into an array of
 ## Return Values
 
 -   The `split()` method returns an array of substrings. If the string is empty, the method returns an array with one empty string as the only element.
+
 -   If the separator is an empty string, the method returns an array of each character in the string.
 -   If the separator is not found in the string, the method returns an array with the entire string as the only element.
 -   If the limit is 0, the method returns an empty array.
