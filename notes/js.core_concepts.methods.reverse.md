@@ -2,7 +2,7 @@
 id: jtyarqfg5f15q2dn9dnkuk3
 title: Reverse
 desc: ''
-updated: 1737501305249
+updated: 1737501349637
 created: 1737412588691
 ---
 
@@ -103,6 +103,8 @@ arr.reverse();
 ```
 
 ## Parameters
+
+the `reverse()` method does not take any parameters.
 
 ## Return Values
 
