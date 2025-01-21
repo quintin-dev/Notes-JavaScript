@@ -2,7 +2,7 @@
 id: jtyarqfg5f15q2dn9dnkuk3
 title: Reverse
 desc: ''
-updated: 1737500903936
+updated: 1737501209979
 created: 1737412588691
 ---
 
@@ -92,21 +92,16 @@ created: 1737412588691
     }
 </style>
 
-##Definition
+## Definition
 
-    ##Syntax
+## Syntax
 
+## Parameters
 
-    ##Parameters
+## Return Values
 
+## Examples
 
-    ##Return Values
+## Edge Cases
 
-
-    ##Examples
-
-
-    ##Edge Cases
-
-
-    ##Links
+## Links
