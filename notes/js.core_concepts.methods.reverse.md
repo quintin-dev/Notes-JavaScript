@@ -2,7 +2,7 @@
 id: jtyarqfg5f15q2dn9dnkuk3
 title: Reverse
 desc: ''
-updated: 1737501209979
+updated: 1737501241773
 created: 1737412588691
 ---
 
@@ -93,6 +93,8 @@ created: 1737412588691
 </style>
 
 ## Definition
+
+The `reverse()` method reverses an array in place. The first array element becomes the last, and the last array element becomes the first.
 
 ## Syntax
 
