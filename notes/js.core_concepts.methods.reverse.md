@@ -2,7 +2,7 @@
 id: jtyarqfg5f15q2dn9dnkuk3
 title: Reverse
 desc: ''
-updated: 1737501349637
+updated: 1737587846323
 created: 1737412588691
 ---
 
@@ -108,8 +108,15 @@ the `reverse()` method does not take any parameters.
 
 ## Return Values
 
+The `reverse()` method returns the reversed array.
+
 ## Examples
+
+```js
+const arr = [1, 2, 3, 4, 5];
+
 
 ## Edge Cases
 
 ## Links
+```
