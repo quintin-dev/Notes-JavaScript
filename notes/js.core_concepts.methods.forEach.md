@@ -2,7 +2,7 @@
 id: 906psszxe7kmdkpie5udape
 title: forEach
 desc: ''
-updated: 1737674697593
+updated: 1737674725936
 created: 1737650770269
 ---
 
@@ -103,3 +103,5 @@ array.forEach(function(currentValue, index, arr), thisValue)
 
 
 ```
+
+## Parameters
