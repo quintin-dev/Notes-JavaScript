@@ -2,7 +2,7 @@
 id: 906psszxe7kmdkpie5udape
 title: forEach
 desc: ''
-updated: 1737674781038
+updated: 1737674846917
 created: 1737650770269
 ---
 
@@ -107,6 +107,7 @@ array.forEach(function(currentValue, index, arr), thisValue)
 ## Parameters
 
 -   `currentValue`: The current element being processed in the array.
+
 -   `index`: The index of the current element being processed in the array.
 -   `arr`: The array `forEach()` was called upon.
 -   `thisValue`: A value to be passed to the function to be used as its "this" value.
@@ -114,3 +115,7 @@ array.forEach(function(currentValue, index, arr), thisValue)
     -   `currentValue`: The current element being processed in the array.
     -   `index`: The index of the current element being processed in the array.
     -   `arr`: The array `forEach()` was called upon.
+
+## Return Values
+
+The `forEach()` method does not return anything.
