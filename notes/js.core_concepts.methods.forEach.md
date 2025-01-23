@@ -2,7 +2,7 @@
 id: 906psszxe7kmdkpie5udape
 title: forEach
 desc: ''
-updated: 1737673559552
+updated: 1737674620841
 created: 1737650770269
 ---
 
@@ -95,3 +95,9 @@ created: 1737650770269
 ## Definition
 
 The `forEach()` method executes a provided function once for each array element.
+
+## Syntax
+
+```js
+
+```
