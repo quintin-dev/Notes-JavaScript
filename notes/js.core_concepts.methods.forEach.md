@@ -2,7 +2,7 @@
 id: 906psszxe7kmdkpie5udape
 title: forEach
 desc: ''
-updated: 1737674846917
+updated: 1737759927034
 created: 1737650770269
 ---
 
@@ -119,3 +119,5 @@ array.forEach(function(currentValue, index, arr), thisValue)
 ## Return Values
 
 The `forEach()` method does not return anything.
+
+## Examples
