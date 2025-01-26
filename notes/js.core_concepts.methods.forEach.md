@@ -2,7 +2,7 @@
 id: 906psszxe7kmdkpie5udape
 title: forEach
 desc: ''
-updated: 1737934074549
+updated: 1737934108279
 created: 1737650770269
 ---
 
@@ -131,3 +131,4 @@ array1.forEach((element) => console.log(element));
 ## Edge Cases
 
 -   If the array is modified during iteration, other elements might be skipped.
+-   If the array is sparse, the index will not be visited for those elements.
