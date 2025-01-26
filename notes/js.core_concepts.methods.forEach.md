@@ -2,7 +2,7 @@
 id: 906psszxe7kmdkpie5udape
 title: forEach
 desc: ''
-updated: 1737760307495
+updated: 1737934074549
 created: 1737650770269
 ---
 
@@ -129,3 +129,5 @@ array1.forEach((element) => console.log(element));
 ```
 
 ## Edge Cases
+
+-   If the array is modified during iteration, other elements might be skipped.
