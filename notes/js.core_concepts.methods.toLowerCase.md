@@ -2,7 +2,7 @@
 id: lfiid4bur801ojvqsmc7s92
 title: toLowerCase
 desc: ''
-updated: 1737934331736
+updated: 1738000656222
 created: 1737150625427
 ---
 
@@ -118,3 +118,7 @@ console.log(str.toLowerCase()); // Output: hello world
 ```js
 console.log(''.toLowerCase()); // Output: ''
 ```
+
+## Links
+
+-   [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase)
