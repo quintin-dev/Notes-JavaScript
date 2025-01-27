@@ -2,7 +2,7 @@
 id: qdvkoaomzw5pjgm6jlgmx6c
 title: Join
 desc: ''
-updated: 1737999854569
+updated: 1737999929598
 created: 1737412676490
 ---
 
@@ -121,5 +121,15 @@ console.log(result); // Output: 'apple,banana,mango,orange'
 ```
 
 ## Edge Cases
+
+### Edge Case 1
+
+If the array has only one item, then that item will be returned without using the separator.
+
+```js
+const fruits = ['apple'];
+const result = fruits.join();
+console.log(result); // Output: 'apple'
+```
 
 ## Links
