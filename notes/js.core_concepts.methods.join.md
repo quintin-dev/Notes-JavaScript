@@ -2,7 +2,7 @@
 id: qdvkoaomzw5pjgm6jlgmx6c
 title: Join
 desc: ''
-updated: 1737999813897
+updated: 1737999854569
 created: 1737412676490
 ---
 
@@ -111,6 +111,14 @@ arr.join([separator]);
 A string representing the elements of the array, separated by the specified separator. If the array has no elements or if the separator is an empty string, the result is an empty string.
 
 ## Examples
+
+### Example 1
+
+```js
+const fruits = ['apple', 'banana', 'mango', 'orange'];
+const result = fruits.join();
+console.log(result); // Output: 'apple,banana,mango,orange'
+```
 
 ## Edge Cases
 
