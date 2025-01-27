@@ -2,7 +2,7 @@
 id: jtyarqfg5f15q2dn9dnkuk3
 title: Reverse
 desc: ''
-updated: 1737588765918
+updated: 1738000886523
 created: 1737412588691
 ---
 
@@ -91,37 +91,3 @@ created: 1737412588691
         color: yellow;
     }
 </style>
-
-## Definition
-
-The `reverse()` method reverses an array in place. The first array element becomes the last, and the last array element becomes the first.
-
-## Syntax
-
-```js
-arr.reverse();
-```
-
-## Parameters
-
-the `reverse()` method does not take any parameters.
-
-## Return Values
-
-The `reverse()` method returns the reversed array.
-
-## Examples
-
-```js
-const arr = [1, 2, 3, 4, 5];
-arr.reverse();
-console.log(arr); // [5, 4, 3, 2, 1]
-```
-
-## Edge Cases
-
-## Links
-
-```
-
-```
