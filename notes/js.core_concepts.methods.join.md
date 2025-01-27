@@ -2,7 +2,7 @@
 id: qdvkoaomzw5pjgm6jlgmx6c
 title: Join
 desc: ''
-updated: 1737999394036
+updated: 1737999426735
 created: 1737412676490
 ---
 
@@ -97,6 +97,10 @@ created: 1737412676490
 The `join()` method creates and returns a new string by concatenating all of the elements in an array (or an array-like object), separated by commas or a specified separator string. If the array has only one item, then that item will be returned without using the separator.
 
 ## Syntax
+
+```js
+arr.join([separator]);
+```
 
 ## Parameters
 
