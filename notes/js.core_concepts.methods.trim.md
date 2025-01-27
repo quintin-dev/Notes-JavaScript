@@ -2,7 +2,7 @@
 id: asfz0jtx7ogz575opk56w6z
 title: Trim
 desc: ''
-updated: 1737999226404
+updated: 1738000749468
 created: 1736972360164
 ---
 
@@ -119,3 +119,7 @@ console.log('   foo  '.trim()); // 'foo'
 console.log('foo'.trim()); // 'foo'
 console.log(''.trim()); // ''
 ```
+
+## Links
+
+-   [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/trim)
