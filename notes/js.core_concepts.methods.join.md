@@ -2,7 +2,7 @@
 id: qdvkoaomzw5pjgm6jlgmx6c
 title: Join
 desc: ''
-updated: 1737999966437
+updated: 1737999992054
 created: 1737412676490
 ---
 
@@ -143,3 +143,5 @@ console.log(result); // Output: ''
 ```
 
 ## Links
+
+-   [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
