@@ -2,7 +2,7 @@
 id: qdvkoaomzw5pjgm6jlgmx6c
 title: Join
 desc: ''
-updated: 1737999929598
+updated: 1737999966437
 created: 1737412676490
 ---
 
@@ -130,6 +130,16 @@ If the array has only one item, then that item will be returned without using th
 const fruits = ['apple'];
 const result = fruits.join();
 console.log(result); // Output: 'apple'
+```
+
+### Edge Case 2
+
+If the array has no elements, the result is an empty string.
+
+```js
+const fruits = [];
+const result = fruits.join();
+console.log(result); // Output: ''
 ```
 
 ## Links
