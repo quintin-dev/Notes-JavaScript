@@ -2,7 +2,7 @@
 id: 906psszxe7kmdkpie5udape
 title: forEach
 desc: ''
-updated: 1737934108279
+updated: 1738000805214
 created: 1737650770269
 ---
 
@@ -132,3 +132,7 @@ array1.forEach((element) => console.log(element));
 
 -   If the array is modified during iteration, other elements might be skipped.
 -   If the array is sparse, the index will not be visited for those elements.
+
+## Links
+
+-   [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
