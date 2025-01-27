@@ -2,7 +2,7 @@
 id: jtyarqfg5f15q2dn9dnkuk3
 title: Reverse
 desc: ''
-updated: 1738000886523
+updated: 1738001725555
 created: 1737412588691
 ---
 
@@ -91,3 +91,19 @@ created: 1737412588691
         color: yellow;
     }
 </style>
+
+## Definition
+
+The `reverse()` method reverses an array in place. The first array element becomes the last, and the last array element becomes the first.
+
+## Syntax
+
+## Parameters
+
+## Return Values
+
+## Examples
+
+## Edge Cases
+
+## Links
