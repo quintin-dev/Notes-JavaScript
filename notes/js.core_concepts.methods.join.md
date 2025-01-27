@@ -2,7 +2,7 @@
 id: qdvkoaomzw5pjgm6jlgmx6c
 title: Join
 desc: ''
-updated: 1737999460900
+updated: 1737999488814
 created: 1737412676490
 ---
 
@@ -104,7 +104,7 @@ arr.join([separator]);
 
 ## Parameters
 
--   `separator` (Optional): Specifies a string to separate each element of the array. The separator is converted to a string if necessary. If omitted, the array elements are separated with a comma.
+-   `separator` (Optional): Specifies a string to separate each element of the array. The separator is converted to a string if necessary. If omitted, the array elements are separated with a comma. If separator is an empty string, all elements are joined without any characters in between them.
 
 ## Return Values
 
