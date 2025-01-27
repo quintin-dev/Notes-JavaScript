@@ -2,7 +2,7 @@
 id: jtyarqfg5f15q2dn9dnkuk3
 title: Reverse
 desc: ''
-updated: 1738001793290
+updated: 1738006092589
 created: 1737412588691
 ---
 
@@ -104,10 +104,22 @@ arr.reverse();
 
 ## Parameters
 
+None
+
 ## Return Values
 
+The reversed array.
+
 ## Examples
+
+```js
+const arr = [1, 2, 3, 4, 5];
+arr.reverse();
+console.log(arr); // [5, 4, 3, 2, 1]
+```
 
 ## Edge Cases
 
 ## Links
+
+-   [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse)
