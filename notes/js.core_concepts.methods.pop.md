@@ -2,7 +2,7 @@
 id: 83jsizmr297zghbccyeg0uk
 title: Pop
 desc: ''
-updated: 1738108460640
+updated: 1738108484186
 created: 1738107296077
 ---
 
@@ -107,6 +107,8 @@ arr.pop();
 None
 
 ## Return Values
+
+The removed element from the array.
 
 ## Examples
 
