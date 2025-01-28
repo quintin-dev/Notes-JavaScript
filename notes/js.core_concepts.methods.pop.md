@@ -1,9 +1,9 @@
 ---
-id: 94rsyknh78okrkixm1fdnen
-title: If_else
+id: 83jsizmr297zghbccyeg0uk
+title: Pop
 desc: ''
-updated: 1738107254716
-created: 1738106001211
+updated: 1738107323345
+created: 1738107296077
 ---
 
 <style>
@@ -91,3 +91,17 @@ created: 1738106001211
         color: yellow;
     }
 </style>
+
+## Definition
+
+## Syntax
+
+## Parameters
+
+## Return Values
+
+## Examples
+
+## Edge Cases
+
+## Links
