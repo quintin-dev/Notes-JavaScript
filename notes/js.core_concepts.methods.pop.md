@@ -2,7 +2,7 @@
 id: 83jsizmr297zghbccyeg0uk
 title: Pop
 desc: ''
-updated: 1738107554536
+updated: 1738107698755
 created: 1738107296077
 ---
 
@@ -93,6 +93,8 @@ created: 1738107296077
 </style>
 
 ## Definition
+
+The `pop()` method removes the last element from an array and returns that element. This method changes the length of the array.
 
 ## Syntax
 
