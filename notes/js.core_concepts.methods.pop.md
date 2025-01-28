@@ -2,7 +2,7 @@
 id: 83jsizmr297zghbccyeg0uk
 title: Pop
 desc: ''
-updated: 1738107729853
+updated: 1738108460640
 created: 1738107296077
 ---
 
@@ -103,6 +103,8 @@ arr.pop();
 ```
 
 ## Parameters
+
+None
 
 ## Return Values
 
