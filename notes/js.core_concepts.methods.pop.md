@@ -2,7 +2,7 @@
 id: 83jsizmr297zghbccyeg0uk
 title: Pop
 desc: ''
-updated: 1738108521402
+updated: 1738108561315
 created: 1738107296077
 ---
 
@@ -120,6 +120,16 @@ const removedElement = arr.pop();
 
 console.log(removedElement); // 5
 console.log(arr); // [1, 2, 3, 4]
+```
+
+### Example 2
+
+```js
+const arr = ['apple', 'banana', 'cherry', 'date'];
+const removedElement = arr.pop();
+
+console.log(removedElement); // 'date'
+console.log(arr); // ['apple', 'banana', 'cherry']
 ```
 
 ## Applicable To
