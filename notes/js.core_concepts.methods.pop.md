@@ -2,7 +2,7 @@
 id: 83jsizmr297zghbccyeg0uk
 title: Pop
 desc: ''
-updated: 1738108484186
+updated: 1738108521402
 created: 1738107296077
 ---
 
@@ -111,6 +111,16 @@ None
 The removed element from the array.
 
 ## Examples
+
+### Example 1
+
+```js
+const arr = [1, 2, 3, 4, 5];
+const removedElement = arr.pop();
+
+console.log(removedElement); // 5
+console.log(arr); // [1, 2, 3, 4]
+```
 
 ## Applicable To
 
