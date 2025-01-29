@@ -2,10 +2,11 @@
 id: 2rzm7k8fqeqlaqc79zrzy5f
 title: Variables
 desc: ''
-updated: 1738171953959
+updated: 1738186035243
 created: 1735912791762
 ---
 
+<!--#region styles-->
 <style>
     * { font-size: 18px; }
     h1 {
@@ -91,6 +92,7 @@ created: 1735912791762
         color: yellow;
     }
 </style>
+<!--#endregion-->
 
 ## Terminologies
 

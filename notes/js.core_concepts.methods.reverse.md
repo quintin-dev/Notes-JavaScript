@@ -2,10 +2,11 @@
 id: jtyarqfg5f15q2dn9dnkuk3
 title: Reverse
 desc: ''
-updated: 1738170479002
+updated: 1738186035258
 created: 1737412588691
 ---
 
+<!--#region styles-->
 <style>
     * { font-size: 18px; }
     h1 {
@@ -91,6 +92,7 @@ created: 1737412588691
         color: yellow;
     }
 </style>
+<!--#endregion-->
 
 ## Definition
 

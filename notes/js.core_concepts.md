@@ -2,10 +2,11 @@
 id: jawxle1ng01pjmcuih9dlj9
 title: Core_concepts
 desc: ''
-updated: 1735913167342
+updated: 1738186035271
 created: 1735912262931
 ---
 
+<!--#region styles-->
 <style>
     * { font-size: 18px; }
     h1 {
@@ -91,6 +92,7 @@ created: 1735912262931
         color: yellow;
     }
 </style>
+<!--#endregion-->
 
 # Introduction To Javascript
 

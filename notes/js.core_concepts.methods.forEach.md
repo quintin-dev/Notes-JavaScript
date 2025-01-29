@@ -2,10 +2,11 @@
 id: 906psszxe7kmdkpie5udape
 title: forEach
 desc: ''
-updated: 1738168230509
+updated: 1738186130574
 created: 1737650770269
 ---
 
+<!--#region styles-->
 <style>
     * { font-size: 18px; }
     h1 {
@@ -91,6 +92,7 @@ created: 1737650770269
         color: yellow;
     }
 </style>
+<!--#endregion-->
 
 ## Definition
 

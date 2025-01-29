@@ -2,10 +2,11 @@
 id: ibcupqhvuh3styvmlggd2h6
 title: Data_types
 desc: ''
-updated: 1738163698374
+updated: 1738186035292
 created: 1738163698374
 ---
 
+<!--#region styles-->
 <style>
     * { font-size: 18px; }
     h1 {
@@ -91,3 +92,4 @@ created: 1738163698374
         color: yellow;
     }
 </style>
+<!--#endregion-->

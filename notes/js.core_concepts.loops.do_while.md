@@ -2,10 +2,11 @@
 id: 1tvfpua71xk33g9ejkvmkot
 title: Do_while
 desc: ''
-updated: 1738171006451
+updated: 1738186035289
 created: 1738170968099
 ---
 
+<!--#region styles-->
 <style>
     * { font-size: 18px; }
     h1 {
@@ -91,6 +92,7 @@ created: 1738170968099
         color: yellow;
     }
 </style>
+<!--#endregion-->
 
 ## do-while Loop
 

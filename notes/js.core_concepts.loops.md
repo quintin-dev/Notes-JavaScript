@@ -2,10 +2,11 @@
 id: da3j1ttxzcihle82esnjg8q
 title: Loops
 desc: ''
-updated: 1738171043840
+updated: 1738186035278
 created: 1734083811153
 ---
 
+<!--#region styles-->
 <style>
     * { font-size: 18px; }
     h1 {
@@ -91,6 +92,7 @@ created: 1734083811153
         color: yellow;
     }
 </style>
+<!--#endregion-->
 
 # Loops
 

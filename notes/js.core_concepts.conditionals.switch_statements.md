@@ -2,10 +2,11 @@
 id: vn10z8ze1hd5pv00u9k175i
 title: Switch_statements
 desc: ''
-updated: 1738175383160
+updated: 1738186035296
 created: 1738167414155
 ---
 
+<!--#region styles-->
 <style>
     * { font-size: 18px; }
     h1 {
@@ -91,6 +92,7 @@ created: 1738167414155
         color: yellow;
     }
 </style>
+<!--#endregion-->
 
 ## The `switch` Statement
 

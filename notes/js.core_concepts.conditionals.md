@@ -2,10 +2,11 @@
 id: 4ayysmpraawxjb15aj8u4n0
 title: Conditionals
 desc: ''
-updated: 1738176648368
+updated: 1738186035299
 created: 1734085507093
 ---
 
+<!--#region styles-->
 <style>
     * { font-size: 18px; }
     h1 {
@@ -91,6 +92,7 @@ created: 1734085507093
         color: yellow;
     }
 </style>
+<!--#endregion-->
 
 # Conditionals in JavaScript
 

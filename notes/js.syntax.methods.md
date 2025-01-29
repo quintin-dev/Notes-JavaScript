@@ -2,10 +2,11 @@
 id: fplslf9qljg7qjabv4p2uct
 title: Methods
 desc: ''
-updated: 1736070447633
+updated: 1738186035231
 created: 1736068882322
 ---
 
+<!--#region styles-->
 <style>
     * { font-size: 18px; }
     h1 {
@@ -91,6 +92,7 @@ created: 1736068882322
         color: yellow;
     }
 </style>
+<!--#endregion-->
 
 ## Defining Methods Syntax
 

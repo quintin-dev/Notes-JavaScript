@@ -2,10 +2,11 @@
 id: asfz0jtx7ogz575opk56w6z
 title: Trim
 desc: ''
-updated: 1738168199014
+updated: 1738186035246
 created: 1736972360164
 ---
 
+<!--#region styles-->
 <style>
     * { font-size: 18px; }
     h1 {
@@ -91,6 +92,7 @@ created: 1736972360164
         color: yellow;
     }
 </style>
+<!--#endregion-->
 
 ## Definiton
 

@@ -2,10 +2,11 @@
 id: lfiid4bur801ojvqsmc7s92
 title: toLowerCase
 desc: ''
-updated: 1738000656222
+updated: 1738186035249
 created: 1737150625427
 ---
 
+<!--#region styles-->
 <style>
     * { font-size: 18px; }
     h1 {
@@ -91,6 +92,7 @@ created: 1737150625427
         color: yellow;
     }
 </style>
+<!--#endregion-->
 
 ## Definition
 

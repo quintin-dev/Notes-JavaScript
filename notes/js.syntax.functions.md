@@ -2,7 +2,7 @@
 id: t04qd5lkr9qhmmaok9ek8if
 title: Functions
 desc: ''
-updated: 1738184647342
+updated: 1738186905489
 created: 1735912593406
 ---
 
@@ -90,15 +90,6 @@ created: 1735912593406
     i {
         font-style: italic;
         color: yellow;
-    }
-    blockquote {
-    background: rgba(255, 0, 127, 0.1); /* Light pink background */
-    border-left: 5px solid rgb(255, 0, 127); /* Bold pink left border */
-    padding: 10px 15px;
-    margin: 10px 0;
-    font-style: italic;
-    font-weight: bold;
-    color: white;
     }
 </style>
 <!--#endregion-->

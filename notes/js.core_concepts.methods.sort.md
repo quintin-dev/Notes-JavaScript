@@ -2,10 +2,11 @@
 id: ud9smcs7hiaxvgukb6ya98n
 title: Sort
 desc: ''
-updated: 1738170572114
+updated: 1738186035256
 created: 1736370797095
 ---
 
+<!--#region styles-->
 <style>
     * { font-size: 18px; }
     h1 {
@@ -91,6 +92,7 @@ created: 1736370797095
         color: yellow;
     }
 </style>
+<!--#endregion-->
 
 ## Definition
 

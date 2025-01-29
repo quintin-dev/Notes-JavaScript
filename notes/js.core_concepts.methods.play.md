@@ -2,10 +2,11 @@
 id: ih7ee3f71q3vvqxnlkoo8jz
 title: Play
 desc: ''
-updated: 1738170125712
+updated: 1738186035263
 created: 1736717434390
 ---
 
+<!--#region styles-->
 <style>
     * { font-size: 18px; }
     h1 {
@@ -91,6 +92,7 @@ created: 1736717434390
         color: yellow;
     }
 </style>
+<!--#endregion-->
 
 ## Definition
 

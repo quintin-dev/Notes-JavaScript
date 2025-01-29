@@ -2,10 +2,11 @@
 id: bvi76ileaqas0cngzyau7lb
 title: Arrays
 desc: ''
-updated: 1738177114478
+updated: 1738186035241
 created: 1733966144654
 ---
 
+<!--#region styles-->
 <style>
     * { font-size: 18px; }
     h1 {
@@ -91,6 +92,7 @@ created: 1733966144654
         color: yellow;
     }
 </style>
+<!--#endregion-->
 
 # Arrays In JavaScript
 

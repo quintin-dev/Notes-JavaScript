@@ -2,10 +2,11 @@
 id: hojtxmdeeiwl0s5vff90cz7
 title: Split
 desc: ''
-updated: 1738170314450
+updated: 1738186035252
 created: 1736634481961
 ---
 
+<!--#region styles-->
 <style>
     * { font-size: 18px; }
     h1 {
@@ -91,6 +92,7 @@ created: 1736634481961
         color: yellow;
     }
 </style>
+<!--#endregion-->
 
 ## Definition
 

@@ -2,10 +2,11 @@
 id: 62omeztyhjifmn09cxdytuc
 title: Methods
 desc: ''
-updated: 1738010371193
+updated: 1738186035266
 created: 1736067199989
 ---
 
+<!--#region styles-->
 <style>
     * { font-size: 18px; }
     h1 {
@@ -91,6 +92,7 @@ created: 1736067199989
         color: yellow;
     }
 </style>
+<!--#endregion-->
 
 # Methods in JavaScript
 

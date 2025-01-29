@@ -2,10 +2,11 @@
 id: 83jsizmr297zghbccyeg0uk
 title: Pop
 desc: ''
-updated: 1738170665175
+updated: 1738186035261
 created: 1738107296077
 ---
 
+<!--#region styles-->
 <style>
     * { font-size: 18px; }
     h1 {
@@ -91,6 +92,7 @@ created: 1738107296077
         color: yellow;
     }
 </style>
+<!--#endregion-->
 
 ## Definition
 
