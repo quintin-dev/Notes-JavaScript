@@ -2,7 +2,7 @@
 id: 9ldmc1uko4qmqajrcdrb2sg
 title: If Else_if Else
 desc: ''
-updated: 1738163286280
+updated: 1738175303764
 created: 1738163286280
 ---
 
@@ -91,3 +91,37 @@ created: 1738163286280
         color: yellow;
     }
 </style>
+
+## The `if...else if...else` Statement
+
+The `if...else if...else` statement executes different blocks of code for different conditions.
+
+```javascript
+if (condition1) {
+    // code to be executed if condition1 is true
+} else if (condition2) {
+    // code to be executed if condition2 is true
+} else {
+    // code to be executed if none of the conditions are true
+}
+```
+
+Here is an example of an `if...else if...else` statement:
+
+```javascript
+let x = 10;
+
+if (x > 20) {
+    console.log('x is greater than 20');
+} else if (x < 20) {
+    console.log('x is less than 20');
+} else {
+    console.log('x is equal to 20');
+}
+```
+
+In this example, the condition `x > 20` is false, and the condition `x < 20` is true, so the output will be:
+
+```
+x is less than 20
+```

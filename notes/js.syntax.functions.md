@@ -2,7 +2,7 @@
 id: t04qd5lkr9qhmmaok9ek8if
 title: Functions
 desc: ''
-updated: 1736067105166
+updated: 1738174759665
 created: 1735912593406
 ---
 
@@ -90,6 +90,15 @@ created: 1735912593406
         font-style: italic;
         color: yellow;
     }
+    blockquote {
+    background: rgba(255, 0, 127, 0.1); /* Light pink background */
+    border-left: 5px solid rgb(255, 0, 127); /* Bold pink left border */
+    padding: 10px 15px;
+    margin: 10px 0;
+    font-style: italic;
+    font-weight: bold;
+    color: white;
+    }
 </style>
 
 # Functions Syntax in JavaScript
@@ -168,6 +177,9 @@ const greet = () => {
     console.log('Hello, World!');
 };
 ```
+
+> <b>IMPORTANT:</b> All functions in JavaScript return a value by default. If no return value is specified, the function returns `undefined`.
+> The return statement does not only specify a value to be returned but also stops execution within a block.
 
 ### Function Constructor Syntax
 
