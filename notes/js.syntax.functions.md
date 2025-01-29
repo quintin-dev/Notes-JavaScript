@@ -2,10 +2,11 @@
 id: t04qd5lkr9qhmmaok9ek8if
 title: Functions
 desc: ''
-updated: 1738174759665
+updated: 1738184647342
 created: 1735912593406
 ---
 
+<!--#region styles-->
 <style>
     * { font-size: 18px; }
     h1 {
@@ -100,6 +101,7 @@ created: 1735912593406
     color: white;
     }
 </style>
+<!--#endregion-->
 
 # Functions Syntax in JavaScript
 
