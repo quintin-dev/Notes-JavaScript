@@ -2,7 +2,7 @@
 id: 4ayysmpraawxjb15aj8u4n0
 title: Conditionals
 desc: ''
-updated: 1738175295237
+updated: 1738175374361
 created: 1734085507093
 ---
 
@@ -140,46 +140,6 @@ In this example, the condition `x > 20` is false, so the output will be:
 
 ```
 x is less than or equal to 20
-```
-
-## The `switch` Statement
-
-The `switch` statement is used to perform different actions based on different conditions.
-
-```javascript
-switch (expression) {
-    case value1:
-        // code to be executed if expression is equal to value1
-        break;
-    case value2:
-        // code to be executed if expression is equal to value2
-        break;
-    default:
-    // code to be executed if expression is different from all values
-}
-```
-
-Here is an example of a `switch` statement:
-
-```javascript
-let day = 'Monday';
-
-switch (day) {
-    case 'Monday':
-        console.log('Today is Monday');
-        break;
-    case 'Tuesday':
-        console.log('Today is Tuesday');
-        break;
-    default:
-        console.log('Today is not Monday or Tuesday');
-}
-```
-
-In this example, the value of `day` is `'Monday'`, so the output will be:
-
-```
-Today is Monday
 ```
 
 ## The Ternary Operator
