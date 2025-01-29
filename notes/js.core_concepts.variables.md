@@ -2,7 +2,7 @@
 id: 2rzm7k8fqeqlaqc79zrzy5f
 title: Variables
 desc: ''
-updated: 1735912865637
+updated: 1738171953959
 created: 1735912791762
 ---
 
@@ -91,6 +91,16 @@ created: 1735912791762
         color: yellow;
     }
 </style>
+
+## Terminologies
+
+-   <b>Variable Scope:</b> The area of the program where a variable can be accessed.
+
+-   <b>Variable Rules:</b> The rules that govern the naming of variables.
+-   <b>Uninitialized Variables:</b> Variables that have been declared but not assigned a value.
+-   <b>Assignment Statement:</b> A statement that assigns a value to a variable.
+-   <b>Reassignment Statement:</b> A statement that assigns a new value to a variable.
+-   <b>Declaration:</b> The process of creating a variable.
 
 ## Variable Naming Rules
 
