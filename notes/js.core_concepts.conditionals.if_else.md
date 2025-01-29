@@ -2,7 +2,7 @@
 id: 94rsyknh78okrkixm1fdnen
 title: If_else
 desc: ''
-updated: 1738107254716
+updated: 1738176562393
 created: 1738106001211
 ---
 
@@ -91,3 +91,27 @@ created: 1738106001211
         color: yellow;
     }
 </style>
+
+## The `if...else` Statement
+
+The `if...else` statement executes a block of code if a specified condition is true and another block of code if the condition is false.
+
+![[js.syntax.conditionals#ifelse-statement-syntax]]
+
+Here is an example of an `if...else` statement:
+
+```javascript
+let x = 10;
+
+if (x > 20) {
+    console.log('x is greater than 20');
+} else {
+    console.log('x is less than or equal to 20');
+}
+```
+
+In this example, the condition `x > 20` is false, so the output will be:
+
+```
+x is less than or equal to 20
+```
