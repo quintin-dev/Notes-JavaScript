@@ -1,9 +1,9 @@
 ---
-id: pwojcbap76pralgr6evlrr0
-title: Conditionals
+id: ah102xpwde5q44b7tldjcqx
+title: toUpperCase
 desc: ''
-updated: 1738187644225
-created: 1736077172600
+updated: 1738188075174
+created: 1738188075174
 ---
 
 <!--#region styles-->
@@ -102,31 +102,3 @@ created: 1736077172600
     }
 </style>
 <!--#endregion-->
-
-## If Statement Syntax [[js.core_concepts.conditionals]]
-
-```javascript
-if (condition) {
-    // code to be executed if the condition is true
-}
-```
-
-## Example
-
-```javascript
-let x = 10;
-
-if (x > 5) {
-    console.log('x is greater than 5');
-}
-```
-
-## If...Else Statement Syntax
-
-```javascript
-if (condition) {
-    // code to be executed if the condition is true
-} else {
-    // code to be executed if the condition is false
-}
-```
