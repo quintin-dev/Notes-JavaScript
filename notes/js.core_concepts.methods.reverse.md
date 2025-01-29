@@ -2,7 +2,7 @@
 id: jtyarqfg5f15q2dn9dnkuk3
 title: Reverse
 desc: ''
-updated: 1738170445924
+updated: 1738170479002
 created: 1737412588691
 ---
 
@@ -124,6 +124,14 @@ console.log(arr); // [5, 4, 3, 2, 1]
 -   JavaScript Typed Arrays
 
 ## Edge Cases
+
+### Edge Case 1
+
+```js
+const arr = [1, 2, 3, 4, 5];
+arr.reverse();
+console.log(arr); // [5, 4, 3, 2, 1]
+```
 
 ## Links
 
