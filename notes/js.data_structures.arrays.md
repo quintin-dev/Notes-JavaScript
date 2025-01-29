@@ -2,7 +2,7 @@
 id: bvi76ileaqas0cngzyau7lb
 title: Arrays
 desc: ''
-updated: 1738186035241
+updated: 1738187350472
 created: 1733966144654
 ---
 
@@ -90,6 +90,15 @@ created: 1733966144654
     i {
         font-style: italic;
         color: yellow;
+    }
+    blockquote {
+    background: rgba(255, 0, 127, 0.1); /* Light pink background */
+    border-left: 5px solid rgb(255, 0, 127); /* Bold pink left border */
+    padding: 10px 15px;
+    margin: 10px 0;
+    font-style: italic;
+    font-weight: bold;
+    color: white;
     }
 </style>
 <!--#endregion-->

@@ -2,7 +2,7 @@
 id: ih7ee3f71q3vvqxnlkoo8jz
 title: Play
 desc: ''
-updated: 1738186035263
+updated: 1738187350495
 created: 1736717434390
 ---
 
@@ -90,6 +90,15 @@ created: 1736717434390
     i {
         font-style: italic;
         color: yellow;
+    }
+    blockquote {
+    background: rgba(255, 0, 127, 0.1); /* Light pink background */
+    border-left: 5px solid rgb(255, 0, 127); /* Bold pink left border */
+    padding: 10px 15px;
+    margin: 10px 0;
+    font-style: italic;
+    font-weight: bold;
+    color: white;
     }
 </style>
 <!--#endregion-->

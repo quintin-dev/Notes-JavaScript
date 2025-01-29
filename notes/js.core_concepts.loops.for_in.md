@@ -2,7 +2,7 @@
 id: bamkah49m0vrbg046qse59i
 title: For_in
 desc: ''
-updated: 1738186035284
+updated: 1738187350516
 created: 1738170894403
 ---
 
@@ -90,6 +90,15 @@ created: 1738170894403
     i {
         font-style: italic;
         color: yellow;
+    }
+    blockquote {
+    background: rgba(255, 0, 127, 0.1); /* Light pink background */
+    border-left: 5px solid rgb(255, 0, 127); /* Bold pink left border */
+    padding: 10px 15px;
+    margin: 10px 0;
+    font-style: italic;
+    font-weight: bold;
+    color: white;
     }
 </style>
 <!--#endregion-->

@@ -2,7 +2,7 @@
 id: jtyarqfg5f15q2dn9dnkuk3
 title: Reverse
 desc: ''
-updated: 1738186035258
+updated: 1738187350489
 created: 1737412588691
 ---
 
@@ -90,6 +90,15 @@ created: 1737412588691
     i {
         font-style: italic;
         color: yellow;
+    }
+    blockquote {
+    background: rgba(255, 0, 127, 0.1); /* Light pink background */
+    border-left: 5px solid rgb(255, 0, 127); /* Bold pink left border */
+    padding: 10px 15px;
+    margin: 10px 0;
+    font-style: italic;
+    font-weight: bold;
+    color: white;
     }
 </style>
 <!--#endregion-->
