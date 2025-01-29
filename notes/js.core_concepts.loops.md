@@ -2,7 +2,7 @@
 id: da3j1ttxzcihle82esnjg8q
 title: Loops
 desc: ''
-updated: 1738170798188
+updated: 1738170844097
 created: 1734083811153
 ---
 
@@ -138,24 +138,3 @@ for (let key in person) {
 ```
 
 In this example, the loop will iterate over the properties of the `person` object and log the key-value pairs to the console.
-
-## for-of Loop
-
-The `for-of` loop is used to iterate over the elements of an iterable object (like an array or a string). The syntax of the `for-of` loop is as follows:
-
-```javascript
-for (variable of iterable) {
-    // code to be executed
-}
-```
-
-Here is an example of a `for-of` loop:
-
-```javascript
-const colors = ['red', 'green', 'blue'];
-for (let color of colors) {
-    console.log(color);
-}
-```
-
-In this example, the loop will iterate over the elements of the `colors` array and log each element to the console.
