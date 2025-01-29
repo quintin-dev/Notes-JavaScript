@@ -2,11 +2,11 @@
 id: sdzhsiyackdbi6xyppkm0dl
 title: Variables
 desc: ''
-updated: 1738187350462
+updated: 1738188668910
 created: 1735912551910
 ---
 
-<!--#region styles-->
+<!-- #region styles -->
 <style>
     * { font-size: 18px; }
     h1 {
@@ -101,4 +101,4 @@ created: 1735912551910
     color: white;
     }
 </style>
-<!--#endregion-->
+<!-- #endregion -->

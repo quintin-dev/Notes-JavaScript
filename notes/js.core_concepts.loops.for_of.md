@@ -2,11 +2,11 @@
 id: 96lp3ddsa48v5ldr73bla9s
 title: For_of
 desc: ''
-updated: 1738187350514
+updated: 1738188668967
 created: 1738105647565
 ---
 
-<!--#region styles-->
+<!-- #region styles -->
 <style>
     * { font-size: 18px; }
     h1 {
@@ -101,7 +101,7 @@ created: 1738105647565
     color: white;
     }
 </style>
-<!--#endregion-->
+<!-- #endregion -->
 
 ## for-of Loop
 

@@ -2,11 +2,11 @@
 id: bamkah49m0vrbg046qse59i
 title: For_in
 desc: ''
-updated: 1738187350516
+updated: 1738188668970
 created: 1738170894403
 ---
 
-<!--#region styles-->
+<!-- #region styles -->
 <style>
     * { font-size: 18px; }
     h1 {
@@ -101,7 +101,7 @@ created: 1738170894403
     color: white;
     }
 </style>
-<!--#endregion-->
+<!-- #endregion -->
 
 ## for-in Loop
 

@@ -2,11 +2,11 @@
 id: j6vlzbs0u6szoo1t88s4kuf
 title: For
 desc: ''
-updated: 1738187350519
+updated: 1738188668973
 created: 1738105763926
 ---
 
-<!--#region styles-->
+<!-- #region styles -->
 <style>
     * { font-size: 18px; }
     h1 {
@@ -101,7 +101,7 @@ created: 1738105763926
     color: white;
     }
 </style>
-<!--#endregion-->
+<!-- #endregion -->
 
 ## for Loop
 

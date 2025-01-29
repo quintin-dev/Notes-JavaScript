@@ -2,11 +2,11 @@
 id: ah102xpwde5q44b7tldjcqx
 title: toUpperCase
 desc: ''
-updated: 1738188075174
+updated: 1738188668913
 created: 1738188075174
 ---
 
-<!--#region styles-->
+<!-- #region styles -->
 <style>
     * { font-size: 18px; }
     h1 {
@@ -101,4 +101,4 @@ created: 1738188075174
     color: white;
     }
 </style>
-<!--#endregion-->
+<!-- #endregion -->

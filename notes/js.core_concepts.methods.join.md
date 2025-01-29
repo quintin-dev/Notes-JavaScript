@@ -2,11 +2,11 @@
 id: qdvkoaomzw5pjgm6jlgmx6c
 title: Join
 desc: ''
-updated: 1738187350499
+updated: 1738188668955
 created: 1737412676490
 ---
 
-<!--#region styles-->
+<!-- #region styles -->
 <style>
     * { font-size: 18px; }
     h1 {
@@ -101,7 +101,7 @@ created: 1737412676490
     color: white;
     }
 </style>
-<!--#endregion-->
+<!-- #endregion -->
 
 ## Definition
 

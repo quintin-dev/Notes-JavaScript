@@ -2,11 +2,11 @@
 id: r53yjg335vmhgeuvkp4hibh
 title: Objects
 desc: ''
-updated: 1738187350470
+updated: 1738188668923
 created: 1735912489620
 ---
 
-<!--#region styles-->
+<!-- #region styles -->
 <style>
     * { font-size: 18px; }
     h1 {
@@ -101,6 +101,6 @@ created: 1735912489620
     color: white;
     }
 </style>
-<!--#endregion-->
+<!-- #endregion -->
 
 ## The Date Object

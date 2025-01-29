@@ -2,11 +2,11 @@
 id: shtt4bihu4ty55ftw3yhju7
 title: If
 desc: ''
-updated: 1738187350457
+updated: 1738188668989
 created: 1738163217959
 ---
 
-<!--#region styles-->
+<!-- #region styles -->
 <style>
     * { font-size: 18px; }
     h1 {
@@ -101,7 +101,7 @@ created: 1738163217959
     color: white;
     }
 </style>
-<!--#endregion-->
+<!-- #endregion -->
 
 ## The `if` Statement
 

@@ -2,11 +2,11 @@
 id: trxs8l9mqknyoc3c5hk3q9b
 title: While
 desc: ''
-updated: 1738187350507
+updated: 1738188668963
 created: 1738105720214
 ---
 
-<!--#region styles-->
+<!-- #region styles -->
 <style>
     * { font-size: 18px; }
     h1 {
@@ -101,7 +101,7 @@ created: 1738105720214
     color: white;
     }
 </style>
-<!--#endregion-->
+<!-- #endregion -->
 
 ## while Loop
 

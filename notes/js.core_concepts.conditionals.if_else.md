@@ -2,11 +2,11 @@
 id: 94rsyknh78okrkixm1fdnen
 title: If_else
 desc: ''
-updated: 1738187350530
+updated: 1738188668987
 created: 1738106001211
 ---
 
-<!--#region styles-->
+<!-- #region styles -->
 <style>
     * { font-size: 18px; }
     h1 {
@@ -101,7 +101,7 @@ created: 1738106001211
     color: white;
     }
 </style>
-<!--#endregion-->
+<!-- #endregion -->
 
 ## The `if...else` Statement
 
