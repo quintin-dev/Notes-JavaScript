@@ -2,7 +2,7 @@
 id: shtt4bihu4ty55ftw3yhju7
 title: If
 desc: ''
-updated: 1738175422430
+updated: 1738175489810
 created: 1738163217959
 ---
 
@@ -91,3 +91,19 @@ created: 1738163217959
         color: yellow;
     }
 </style>
+
+## The `if` Statement
+
+The `if` statement executes a block of code if a specified condition is true.
+
+![[js.syntax.conditionals#If-Statement-Syntax]]
+
+Here is an example of an `if` statement:
+
+![[js.syntax.conditionals#Example]]
+
+In this example, the condition `x > 5` is true, so the output will be:
+
+```
+x is greater than 5
+```
