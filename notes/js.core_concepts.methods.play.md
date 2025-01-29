@@ -2,7 +2,7 @@
 id: ih7ee3f71q3vvqxnlkoo8jz
 title: Play
 desc: ''
-updated: 1738168288846
+updated: 1738170097722
 created: 1736717434390
 ---
 
@@ -135,6 +135,8 @@ The `play()` method does not take any parameters.
 ```
 
 ## Applicable To
+
+The `play()` method is applicable to all media elements like `<audio>` and `<video>`. It is also applicable to the `HTMLMediaElement` interface. The `HTMLMediaElement` interface is a special kind of `HTMLElement` that represents an HTML `<audio>` or `<video>` element. It provides properties and methods to control the playback of audio and video files.
 
 ## Return Values
 
