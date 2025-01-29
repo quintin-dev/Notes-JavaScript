@@ -2,7 +2,7 @@
 id: da3j1ttxzcihle82esnjg8q
 title: Loops
 desc: ''
-updated: 1738170736087
+updated: 1738170798188
 created: 1734083811153
 ---
 
@@ -95,28 +95,6 @@ created: 1734083811153
 # Loops
 
 Loops are used to execute the same block of code multiple times. There are different types of loops in JavaScript: `for`, `while`, `do-while`, and `for-in`.
-
-## while Loop
-
-The `while` loop is used to execute a block of code as long as the condition is `true`. The syntax of the `while` loop is as follows:
-
-```javascript
-while (condition) {
-    // code to be executed
-}
-```
-
-Here is an example of a `while` loop:
-
-```javascript
-let i = 0;
-while (i < 5) {
-    console.log(i);
-    i++;
-}
-```
-
-In this example, the loop will run five times, and the output will be the same as the `for` loop example. The `while` loop is useful when the number of iterations is not known beforehand.
 
 ## do-while Loop
 
