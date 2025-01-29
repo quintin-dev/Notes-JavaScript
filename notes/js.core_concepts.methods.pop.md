@@ -2,7 +2,7 @@
 id: 83jsizmr297zghbccyeg0uk
 title: Pop
 desc: ''
-updated: 1738108603768
+updated: 1738170665175
 created: 1738107296077
 ---
 
@@ -135,7 +135,7 @@ console.log(arr); // ['apple', 'banana', 'cherry']
 ## Applicable To
 
 -   Arrays
--
+-   Typed Arrays
 
 ## Edge Cases
 
