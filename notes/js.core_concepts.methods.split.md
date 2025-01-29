@@ -2,7 +2,7 @@
 id: hojtxmdeeiwl0s5vff90cz7
 title: Split
 desc: ''
-updated: 1737412038297
+updated: 1738170314450
 created: 1736634481961
 ---
 
@@ -121,6 +121,10 @@ console.log(arr2); // Output: ['Hello', 'World']
 ```
 
 in this example, the `split()` method is used to split a string into an array of substrings. The first example splits the string `Hello,World,JavaScript` using a comma as the separator, resulting in an array with three elements: `['Hello', 'World', 'JavaScript']`. The second example splits the same string using a comma as the separator and a limit of 2, resulting in an array with two elements: `['Hello', 'World']`.
+
+## Applicable To
+
+The `split()` method is applicable to all JavaScript strings.
 
 ## Return Values
 
