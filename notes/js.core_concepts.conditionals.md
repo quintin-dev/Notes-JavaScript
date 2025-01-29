@@ -2,7 +2,7 @@
 id: 4ayysmpraawxjb15aj8u4n0
 title: Conditionals
 desc: ''
-updated: 1738175374361
+updated: 1738175440884
 created: 1734085507093
 ---
 
@@ -101,22 +101,6 @@ Conditionals are used to perform different actions based on different conditions
 -   `if...else if...else` statement
 -   `switch` statement
 -   `ternary` operator
-
-## The `if` Statement
-
-The `if` statement executes a block of code if a specified condition is true.
-
-![[js.syntax.conditionals#If-Statement-Syntax]]
-
-Here is an example of an `if` statement:
-
-![[js.syntax.conditionals#Example]]
-
-In this example, the condition `x > 5` is true, so the output will be:
-
-```
-x is greater than 5
-```
 
 ## The `if...else` Statement
 
