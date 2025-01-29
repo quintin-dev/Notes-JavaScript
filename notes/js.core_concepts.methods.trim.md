@@ -2,7 +2,7 @@
 id: asfz0jtx7ogz575opk56w6z
 title: Trim
 desc: ''
-updated: 1738167585947
+updated: 1738168199014
 created: 1736972360164
 ---
 
@@ -111,8 +111,6 @@ None
 A new string representing the calling string stripped of whitespace from both ends.
 
 ## Examples
-
-### Example 1
 
 ```js
 console.log('   foo  '.trim()); // 'foo'

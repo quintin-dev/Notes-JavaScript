@@ -2,7 +2,7 @@
 id: ih7ee3f71q3vvqxnlkoo8jz
 title: Play
 desc: ''
-updated: 1736884074885
+updated: 1738168288846
 created: 1736717434390
 ---
 
@@ -133,6 +133,8 @@ The `play()` method does not take any parameters.
     </body>
 </html>
 ```
+
+## Applicable To
 
 ## Return Values
 

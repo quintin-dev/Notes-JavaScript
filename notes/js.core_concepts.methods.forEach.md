@@ -2,7 +2,7 @@
 id: 906psszxe7kmdkpie5udape
 title: forEach
 desc: ''
-updated: 1738000805214
+updated: 1738168230509
 created: 1737650770269
 ---
 
@@ -127,6 +127,10 @@ const array1 = ['a', 'b', 'c'];
 
 array1.forEach((element) => console.log(element));
 ```
+
+## Applicable To
+
+The `forEach()` method is applicable to all arrays.
 
 ## Edge Cases
 
