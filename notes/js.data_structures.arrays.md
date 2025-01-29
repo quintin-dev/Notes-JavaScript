@@ -2,7 +2,7 @@
 id: bvi76ileaqas0cngzyau7lb
 title: Arrays
 desc: ''
-updated: 1734083653244
+updated: 1738177114478
 created: 1733966144654
 ---
 
@@ -98,7 +98,7 @@ An array is a special variable that can hold more than one value at a time. It i
 
 ## Creating an Array
 
-You can create an array in two ways:
+You can create an array in the following ways:
 
 1. Using an array literal: `var cars = ["Saab", "Volvo", "BMW"];` An array literal is a list of variables separated by commas and enclosed in square brackets.
 
@@ -141,6 +141,7 @@ You can access an array element by referring to the index number. The index numb
 ## Array Methods
 
 1. `push()`: The `push()` method adds new elements to the end of an array. eg. `cars.push("Audi");` The `push()` method adds the element `"Audi"` to the end of the `cars` array.
+
 2. `pop()`: The `pop()` method removes the last element from an array. eg. `cars.pop();` The `pop()` method removes the last element from the `cars` array.
 3. `shift()`: The `shift()` method removes the first element from an array. eg. `cars.shift();` The `shift()` method removes the first element from the `cars` array.
 4. `unshift()`: The `unshift()` method adds new elements to the beginning of an array. eg. `cars.unshift("Audi");` The `unshift()` method adds the element `"Audi"` to the beginning of the `cars` array.

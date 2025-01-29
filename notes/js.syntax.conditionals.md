@@ -2,9 +2,11 @@
 id: pwojcbap76pralgr6evlrr0
 title: Conditionals
 desc: ''
-updated: 1736078185482
+updated: 1738177452068
 created: 1736077172600
 ---
+
+<!-- #region CSS STYLING TEMPLATE -->
 
 <style>
     * { font-size: 18px; }
@@ -91,6 +93,8 @@ created: 1736077172600
         color: yellow;
     }
 </style>
+
+<!-- #endregion -->
 
 ## If Statement Syntax [[js.core_concepts.conditionals]]
 

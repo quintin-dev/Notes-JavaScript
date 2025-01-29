@@ -2,7 +2,7 @@
 id: shtt4bihu4ty55ftw3yhju7
 title: If
 desc: ''
-updated: 1738175489810
+updated: 1738176899181
 created: 1738163217959
 ---
 
@@ -90,6 +90,15 @@ created: 1738163217959
         font-style: italic;
         color: yellow;
     }
+    blockquote {
+    background: rgba(255, 0, 127, 0.1); /* Light pink background */
+    border-left: 5px solid rgb(255, 0, 127); /* Bold pink left border */
+    padding: 10px 15px;
+    margin: 10px 0;
+    font-style: italic;
+    font-weight: bold;
+    color: white;
+    }
 </style>
 
 ## The `if` Statement
@@ -107,3 +116,7 @@ In this example, the condition `x > 5` is true, so the output will be:
 ```
 x is greater than 5
 ```
+
+> <b>IMPORTANT:</b>
+> 📌 The condition in an if statement can evaluate anything—not just the block of code within it.
+> 📌 JavaScript's strict equality operator (===) should be used almost all the time.
