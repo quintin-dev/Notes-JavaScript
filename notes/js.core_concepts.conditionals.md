@@ -2,7 +2,7 @@
 id: 4ayysmpraawxjb15aj8u4n0
 title: Conditionals
 desc: ''
-updated: 1738176556864
+updated: 1738176648368
 created: 1734085507093
 ---
 
@@ -101,31 +101,5 @@ Conditionals are used to perform different actions based on different conditions
 -   `if...else if...else` statement
 -   `switch` statement
 -   `ternary` operator
-
-## The Ternary Operator
-
-The ternary operator is a shorthand way of writing an `if...else` statement.
-
-```javascript
-condition ? expression1 : expression2;
-```
-
-Here is an example of the ternary operator:
-
-```javascript
-let x = 10;
-
-let result = x > 5 ? 'x is greater than 5' : 'x is less than or equal to 5';
-
-console.log(result);
-```
-
-In this example, the condition `x > 5` is true, so the output will be:
-
-```
-x is greater than 5
-```
-
-The ternary operator can be used to assign values to variables based on conditions.
 
 ---
