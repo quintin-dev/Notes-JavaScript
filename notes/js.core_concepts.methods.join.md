@@ -2,7 +2,7 @@
 id: qdvkoaomzw5pjgm6jlgmx6c
 title: Join
 desc: ''
-updated: 1737999992054
+updated: 1738170249514
 created: 1737412676490
 ---
 
@@ -112,13 +112,15 @@ A string representing the elements of the array, separated by the specified sepa
 
 ## Examples
 
-### Example 1
-
 ```js
 const fruits = ['apple', 'banana', 'mango', 'orange'];
 const result = fruits.join();
 console.log(result); // Output: 'apple,banana,mango,orange'
 ```
+
+## Applicable To
+
+The `join()` method is applicable to all JavaScript arrays.
 
 ## Edge Cases
 
