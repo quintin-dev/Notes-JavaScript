@@ -2,7 +2,7 @@
 id: ocuv4lpmtw0f1lmmnu17zc2
 title: Selectors
 desc: ''
-updated: 1738362702695
+updated: 1738363430319
 created: 1738359449554
 ---
 
@@ -137,9 +137,11 @@ document.querySelectorAll(selector);
 ```js
 const paragraphs = document.querySelectorAll('p');
 
-/*The above code will return all paragraph elements in the document and
- assign them to the variable 'paragraphs'.*/
+/*The above code will return a static NodeList of all paragraph elements in the document and
+ assign it to the variable 'paragraphs'.*/
 ```
+
+> **Note:** The `querySelectorAll()` method returns a static NodeList, which means that any changes made to the document will not be reflected in the NodeList.
 
 ## 3. getElementById()
 
@@ -172,5 +174,22 @@ document.getElementsByClassName(className);
 const myElements = document.getElementsByClassName('myClass');
 
 /*The above code will return all elements with the class 'myClass' and
+ assign them to the variable 'myElements'.*/
+```
+
+## 5. getElementsByTagName()
+
+The `getElementsByTagName()` method returns a collection of all elements in the document with the specified tag name.
+
+```js
+document.getElementsByTagName(tagName);
+```
+
+#### Example:
+
+```js
+const myElements = document.getElementsByTagName('p');
+
+/*The above code will return all paragraph elements in the document and
  assign them to the variable 'myElements'.*/
 ```
