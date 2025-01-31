@@ -2,7 +2,7 @@
 id: ocuv4lpmtw0f1lmmnu17zc2
 title: Selectors
 desc: ''
-updated: 1738360987169
+updated: 1738362385411
 created: 1738359449554
 ---
 
@@ -118,9 +118,10 @@ document.querySelector(selector);
 #### Example:
 
 ```js
-document.querySelector('p');
+const paragraph = document.querySelector('p');
 
-/*The above code will return the first paragraph element in the document.*/
+/* The above code will return the first paragraph element in the document and 
+assign it to the variable 'paragraph'. */
 ```
 
 ### querySelectorAll()
@@ -134,9 +135,9 @@ document.querySelectorAll(selector);
 #### Example:
 
 ```js
-document.querySelectorAll('p');
+const paragraphs = document.querySelectorAll('p');
 
-/*The above code will return all paragraph elements in the document.*/
+/*The above code will return all paragraph elements in the document and assign them to the variable 'paragraphs'.*/
 ```
 
 ### getElementById()
@@ -145,6 +146,20 @@ The `getElementById()` method returns the element that has the ID attribute with
 
 ```js
 document.getElementById(id);
+```
+
+#### Example:
+
+```js
+/*The above code will return the element with the ID 'myId'.*/
+```
+
+### getElementsByClassName()
+
+The `getElementsByClassName()` method returns a collection of all elements in the document with the specified class name.
+
+```js
+document.getElementsByClassName(className);
 ```
 
 #### Example:
