@@ -2,7 +2,7 @@
 id: ocuv4lpmtw0f1lmmnu17zc2
 title: Selectors
 desc: ''
-updated: 1738360787281
+updated: 1738360987169
 created: 1738359449554
 ---
 
@@ -119,9 +119,9 @@ document.querySelector(selector);
 
 ```js
 document.querySelector('p');
-```
 
-The above code will return the first paragraph element in the document.
+/*The above code will return the first paragraph element in the document.*/
+```
 
 ### querySelectorAll()
 
@@ -135,4 +135,20 @@ document.querySelectorAll(selector);
 
 ```js
 document.querySelectorAll('p');
+
+/*The above code will return all paragraph elements in the document.*/
+```
+
+### getElementById()
+
+The `getElementById()` method returns the element that has the ID attribute with the specified value.
+
+```js
+document.getElementById(id);
+```
+
+#### Example:
+
+```js
+
 ```
