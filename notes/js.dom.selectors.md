@@ -2,7 +2,7 @@
 id: ocuv4lpmtw0f1lmmnu17zc2
 title: Selectors
 desc: ''
-updated: 1738362385411
+updated: 1738362702695
 created: 1738359449554
 ---
 
@@ -105,9 +105,9 @@ created: 1738359449554
 </style>
 <!--#endregion-->
 
-## DOM API METHODS
+# DOM API METHODS
 
-### querySelector()
+## 1. querySelector()
 
 The `querySelector()` method returns the first element that matches a specified CSS selector(s) in the document.
 
@@ -124,7 +124,7 @@ const paragraph = document.querySelector('p');
 assign it to the variable 'paragraph'. */
 ```
 
-### querySelectorAll()
+## 2. querySelectorAll()
 
 The `querySelectorAll()` method returns all elements in the document that matches a specified CSS selector(s), as a static NodeList object.
 
@@ -137,10 +137,11 @@ document.querySelectorAll(selector);
 ```js
 const paragraphs = document.querySelectorAll('p');
 
-/*The above code will return all paragraph elements in the document and assign them to the variable 'paragraphs'.*/
+/*The above code will return all paragraph elements in the document and
+ assign them to the variable 'paragraphs'.*/
 ```
 
-### getElementById()
+## 3. getElementById()
 
 The `getElementById()` method returns the element that has the ID attribute with the specified value.
 
@@ -151,10 +152,13 @@ document.getElementById(id);
 #### Example:
 
 ```js
-/*The above code will return the element with the ID 'myId'.*/
+const myElement = document.getElementById('myId');
+
+/*The above code will return the element with the ID 'myId' and
+ assign it to the variable 'myElement'.*/
 ```
 
-### getElementsByClassName()
+## 4. getElementsByClassName()
 
 The `getElementsByClassName()` method returns a collection of all elements in the document with the specified class name.
 
@@ -165,5 +169,8 @@ document.getElementsByClassName(className);
 #### Example:
 
 ```js
+const myElements = document.getElementsByClassName('myClass');
 
+/*The above code will return all elements with the class 'myClass' and
+ assign them to the variable 'myElements'.*/
 ```
