@@ -1,9 +1,9 @@
 ---
-id: sdzhsiyackdbi6xyppkm0dl
-title: Variables
+id: t6zh2uozta400kcj0m8x0ey
+title: Template_literals
 desc: ''
-updated: 1738365443650
-created: 1735912551910
+updated: 1738364868199
+created: 1738364868199
 ---
 
 <!--#region styles-->
@@ -104,5 +104,3 @@ created: 1735912551910
     }
 </style>
 <!--#endregion-->
-
-## Assignment Syntax
