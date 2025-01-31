@@ -2,7 +2,7 @@
 id: ocuv4lpmtw0f1lmmnu17zc2
 title: Selectors
 desc: ''
-updated: 1738360351637
+updated: 1738360787281
 created: 1738359449554
 ---
 
@@ -121,10 +121,18 @@ document.querySelector(selector);
 document.querySelector('p');
 ```
 
+The above code will return the first paragraph element in the document.
+
 ### querySelectorAll()
 
 The `querySelectorAll()` method returns all elements in the document that matches a specified CSS selector(s), as a static NodeList object.
 
 ```js
+document.querySelectorAll(selector);
+```
 
+#### Example:
+
+```js
+document.querySelectorAll('p');
 ```
