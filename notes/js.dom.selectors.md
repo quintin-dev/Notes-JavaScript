@@ -2,7 +2,7 @@
 id: ocuv4lpmtw0f1lmmnu17zc2
 title: Selectors
 desc: ''
-updated: 1738359646404
+updated: 1738360351637
 created: 1738359449554
 ---
 
@@ -113,4 +113,18 @@ The `querySelector()` method returns the first element that matches a specified 
 
 ```js
 document.querySelector(selector);
+```
+
+#### Example:
+
+```js
+document.querySelector('p');
+```
+
+### querySelectorAll()
+
+The `querySelectorAll()` method returns all elements in the document that matches a specified CSS selector(s), as a static NodeList object.
+
+```js
+
 ```
