@@ -2,7 +2,7 @@
 id: gylpfcqdsk0fmrlgenfaxvv
 title: Value
 desc: ''
-updated: 1738367616488
+updated: 1738452037066
 created: 1738367616488
 ---
 
@@ -104,3 +104,10 @@ created: 1738367616488
     }
 </style>
 <!--#endregion-->
+
+# Value
+
+-   Value is a property of an object that holds the actual data of the object.
+
+-   The value of an object can be a primitive value or another object.
+-   The value of an object can be accessed using the dot notation or the bracket notation.
