@@ -2,11 +2,11 @@
 id: sdzhsiyackdbi6xyppkm0dl
 title: Variables
 desc: ''
-updated: 1738365443650
+updated: 1738427171622
 created: 1735912551910
 ---
 
-<!--#region styles-->
+<!-- #region styles -->
 <style>
     * {
         font-size: 18px;
@@ -103,6 +103,6 @@ created: 1735912551910
         color: white;
     }
 </style>
-<!--#endregion-->
+<!-- #endregion -->
 
 ## Assignment Syntax

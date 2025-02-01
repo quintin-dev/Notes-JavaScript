@@ -2,11 +2,11 @@
 id: 2dw9bhbga6t1kiafr749a5b
 title: Regex
 desc: ''
-updated: 1738366956849
+updated: 1738417699655
 created: 1738278395068
 ---
 
-<!--#region styles-->
+<!--#region styles (collapsed)-->
 <style>
     * {
         font-size: 18px;
