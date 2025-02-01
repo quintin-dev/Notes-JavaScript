@@ -2,7 +2,7 @@
 id: 2dw9bhbga6t1kiafr749a5b
 title: Regex
 desc: ''
-updated: 1738452791458
+updated: 1738452845670
 created: 1738278395068
 ---
 
@@ -118,5 +118,15 @@ There are two ways to create a regular expression:
 1. Using a regular expression literal, which consists of a pattern enclosed between slashes, as follows:
 
 ```js
-
+let re = /ab+c/;
 ```
+
+2. Using the `RegExp` constructor, as follows:
+
+```js
+let re = new RegExp('ab+c');
+```
+
+## Regular Expression Patterns
+
+A regular expression pattern is composed of simple characters, such as `/abc/`, or a combination of simple and special characters, such as `/ab*c/` or `/ab+c/`.
