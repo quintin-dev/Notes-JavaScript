@@ -2,7 +2,7 @@
 id: 2dw9bhbga6t1kiafr749a5b
 title: Regex
 desc: ''
-updated: 1738417699655
+updated: 1738452791458
 created: 1738278395068
 ---
 
@@ -110,3 +110,13 @@ created: 1738278395068
 ## Introduction
 
 Regular expressions are patterns used to match character combinations in strings. In JavaScript, regular expressions are also objects. These patterns are used with the `exec` and `test` methods of `RegExp`, and with the `match`, `replace`, `search`, and `split` methods of `String`.
+
+## Creating a Regular Expression
+
+There are two ways to create a regular expression:
+
+1. Using a regular expression literal, which consists of a pattern enclosed between slashes, as follows:
+
+```js
+
+```
