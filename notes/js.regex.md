@@ -2,7 +2,7 @@
 id: 2dw9bhbga6t1kiafr749a5b
 title: Regex
 desc: ''
-updated: 1738452845670
+updated: 1738452900014
 created: 1738278395068
 ---
 
@@ -130,3 +130,5 @@ let re = new RegExp('ab+c');
 ## Regular Expression Patterns
 
 A regular expression pattern is composed of simple characters, such as `/abc/`, or a combination of simple and special characters, such as `/ab*c/` or `/ab+c/`.
+
+### Simple Characters
