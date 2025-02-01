@@ -2,7 +2,7 @@
 id: 2dw9bhbga6t1kiafr749a5b
 title: Regex
 desc: ''
-updated: 1738452988286
+updated: 1738453019736
 created: 1738278395068
 ---
 
@@ -138,3 +138,5 @@ Simple characters match themselves. For example, the pattern `/abc/` matches the
 ### Special Characters
 
 Special characters are characters that do not match themselves as seen. Instead, they have special meanings when used in a regular expression. For example, the pattern `/ab*c/` matches a string that has an `a`, followed by zero or more `b`s, followed by a `c`.
+
+The following table lists some of the special characters used in regular expressions:
