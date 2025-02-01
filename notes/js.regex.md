@@ -2,7 +2,7 @@
 id: 2dw9bhbga6t1kiafr749a5b
 title: Regex
 desc: ''
-updated: 1738452920835
+updated: 1738452949755
 created: 1738278395068
 ---
 
@@ -134,3 +134,5 @@ A regular expression pattern is composed of simple characters, such as `/abc/`, 
 ### Simple Characters
 
 Simple characters match themselves. For example, the pattern `/abc/` matches the character sequence `abc`.
+
+### Special Characters
