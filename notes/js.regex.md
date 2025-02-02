@@ -2,7 +2,7 @@
 id: 2dw9bhbga6t1kiafr749a5b
 title: Regex
 desc: ''
-updated: 1738453063744
+updated: 1738538170108
 created: 1738278395068
 ---
 
@@ -108,39 +108,3 @@ created: 1738278395068
 # Regex
 
 ## Introduction
-
-Regular expressions are patterns used to match character combinations in strings. In JavaScript, regular expressions are also objects. These patterns are used with the `exec` and `test` methods of `RegExp`, and with the `match`, `replace`, `search`, and `split` methods of `String`.
-
-## Creating a Regular Expression
-
-There are two ways to create a regular expression:
-
-1. Using a regular expression literal, which consists of a pattern enclosed between slashes, as follows:
-
-```js
-let re = /ab+c/;
-```
-
-2. Using the `RegExp` constructor, as follows:
-
-```js
-let re = new RegExp('ab+c');
-```
-
-## Regular Expression Patterns
-
-A regular expression pattern is composed of simple characters, such as `/abc/`, or a combination of simple and special characters, such as `/ab*c/` or `/ab+c/`.
-
-### Simple Characters
-
-Simple characters match themselves. For example, the pattern `/abc/` matches the character sequence `abc`.
-
-### Special Characters
-
-Special characters are characters that do not match themselves as seen. Instead, they have special meanings when used in a regular expression. For example, the pattern `/ab*c/` matches a string that has an `a`, followed by zero or more `b`s, followed by a `c`.
-
-The following table lists some of the special characters used in regular expressions:
-
-| Character | Description                     |
-| --------- | ------------------------------- |
-| `^`       | Matches the beginning of input. |
