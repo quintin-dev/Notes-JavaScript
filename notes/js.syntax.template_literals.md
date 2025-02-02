@@ -2,7 +2,7 @@
 id: t6zh2uozta400kcj0m8x0ey
 title: Template_literals
 desc: ''
-updated: 1738364868199
+updated: 1738538864784
 created: 1738364868199
 ---
 
@@ -104,3 +104,7 @@ created: 1738364868199
     }
 </style>
 <!--#endregion-->
+
+# Template Literals
+
+Template literals are string literals allowing embedded expressions. You can use multi-line strings and string interpolation features with them. They were called "template strings" in prior editions of the ES2015 specification.
