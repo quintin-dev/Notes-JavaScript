@@ -2,7 +2,7 @@
 id: t6zh2uozta400kcj0m8x0ey
 title: Template_literals
 desc: ''
-updated: 1738539030262
+updated: 1738539642977
 created: 1738364868199
 ---
 
@@ -117,4 +117,14 @@ A template literal is enclosed by the back-tick (\`) (grave accent) character in
 let name = 'John';
 let age = 30;
 let sentence = `My name is ${name} and I am ${age} years old.`;
+```
+
+## Multi-line strings
+
+Template literals can contain multiple lines without any special characters.
+
+```js
+let sentence = `This is a
+multi-line
+string`;
 ```
