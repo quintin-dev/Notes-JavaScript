@@ -1,9 +1,9 @@
 ---
-id: pajavjhhcg8hgpb3y83w68p
-title: Functions
+id: 80u1dyllpivq4hcljh2ms1j
+title: Arrow
 desc: ''
-updated: 1738621345726
-created: 1738617288997
+updated: 1738621385505
+created: 1738621385505
 ---
 
 <!--#region styles-->
