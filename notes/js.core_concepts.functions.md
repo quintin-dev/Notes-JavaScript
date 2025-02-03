@@ -2,7 +2,7 @@
 id: pajavjhhcg8hgpb3y83w68p
 title: Functions
 desc: ''
-updated: 1738623178742
+updated: 1738623303563
 created: 1738617288997
 ---
 
@@ -120,11 +120,7 @@ created: 1738617288997
 
 ## 📌 Key Concepts
 
--   **Parameters vs. Arguments** (`function add(a, b) { return a + b; }`)
--   **Return Statements** (`return` stops execution & sends back a value)
--   **Function Scope & Hoisting** (Declared functions are hoisted)
-
-## 🔗 Related Notes
-
--   [Arrow Functions](js.core_concepts.functions.arrow_functions)
--   [Callbacks](js.core_concepts.functions.callback_functions)
+-   <b>Function Declaration</b>n:
+    -   **Hoisted**.
+    -   **Can be called before declaration**.
+    -   **Can be re-declared**.
