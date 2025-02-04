@@ -2,7 +2,7 @@
 id: h6tq3ojhfqba0wrymvyny30
 title: Reduce
 desc: ''
-updated: 1738709183730
+updated: 1738709556736
 created: 1738708823732
 ---
 
@@ -125,6 +125,8 @@ array.reduce(callback(accumulator, currentValue, index, array), initialValue);
     -   `array`: The array `reduce()` was called upon.
 
 ## Return Values
+
+The return value of the `reduce()` method is the accumulated value that results from the reduction. If no `initialValue` is provided, the first element in the array is used as the initial value. If the array is empty and no `initialValue` is provided, a `TypeError` is thrown. If the array has only one element and no `initialValue` is provided, the single element is returned without calling the callback function.
 
 ## Examples
 
