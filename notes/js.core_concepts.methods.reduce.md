@@ -2,7 +2,7 @@
 id: h6tq3ojhfqba0wrymvyny30
 title: Reduce
 desc: ''
-updated: 1738708957271
+updated: 1738709085317
 created: 1738708823732
 ---
 
@@ -110,6 +110,10 @@ created: 1738708823732
 `reduce()` is a method that executes a reducer function on each element of the array, resulting in a single output value.
 
 ## Syntax
+
+```js
+array.reduce(callback(accumulator, currentValue, index, array), initialValue);
+```
 
 ## Parameters
 
