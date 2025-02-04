@@ -2,7 +2,7 @@
 id: h6tq3ojhfqba0wrymvyny30
 title: Reduce
 desc: ''
-updated: 1738708900563
+updated: 1738708957271
 created: 1738708823732
 ---
 
@@ -106,6 +106,8 @@ created: 1738708823732
 <!--#endregion-->
 
 ## Definition
+
+`reduce()` is a method that executes a reducer function on each element of the array, resulting in a single output value.
 
 ## Syntax
 
