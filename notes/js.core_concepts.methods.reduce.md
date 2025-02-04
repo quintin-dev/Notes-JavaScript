@@ -2,7 +2,7 @@
 id: h6tq3ojhfqba0wrymvyny30
 title: Reduce
 desc: ''
-updated: 1738708845196
+updated: 1738708900563
 created: 1738708823732
 ---
 
@@ -105,4 +105,18 @@ created: 1738708823732
 </style>
 <!--#endregion-->
 
-method
+## Definition
+
+## Syntax
+
+## Parameters
+
+## Return Values
+
+## Examples
+
+## Applicable To
+
+## Edge Cases
+
+## Links
