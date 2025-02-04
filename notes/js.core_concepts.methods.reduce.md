@@ -2,7 +2,7 @@
 id: h6tq3ojhfqba0wrymvyny30
 title: Reduce
 desc: ''
-updated: 1738709085317
+updated: 1738709183730
 created: 1738708823732
 ---
 
@@ -107,7 +107,7 @@ created: 1738708823732
 
 ## Definition
 
-`reduce()` is a method that executes a reducer function on each element of the array, resulting in a single output value.
+`reduce()` is a method that executes a reducer function on each element of the array, resulting in a single output value. This method is used to reduce the array to a single value.
 
 ## Syntax
 
@@ -116,6 +116,13 @@ array.reduce(callback(accumulator, currentValue, index, array), initialValue);
 ```
 
 ## Parameters
+
+-   `callback`: A function that is called on each element of the array. It takes four arguments:
+
+    -   `accumulator`: The accumulator accumulates the callback's return values. It is the accumulated value previously returned in the last invocation of the callback, or `initialValue`, if supplied.
+    -   `currentValue`: The current element being processed in the array.
+    -   `index`: The index of the current element being processed in the array.
+    -   `array`: The array `reduce()` was called upon.
 
 ## Return Values
 
