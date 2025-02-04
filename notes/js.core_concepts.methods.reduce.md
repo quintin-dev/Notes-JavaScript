@@ -1,9 +1,9 @@
 ---
-id: pajavjhhcg8hgpb3y83w68p
-title: Functions
+id: h6tq3ojhfqba0wrymvyny30
+title: Reduce
 desc: ''
-updated: 1738623450637
-created: 1738617288997
+updated: 1738708845196
+created: 1738708823732
 ---
 
 <!--#region styles-->
@@ -105,22 +105,4 @@ created: 1738617288997
 </style>
 <!--#endregion-->
 
-# Functions
-
-## 📌 Overview
-
--   Functions are **reusable blocks of code**.
--   Defined using `function` keyword or as expressions.
-
-## 📌 Types of Functions
-
--   **Function Declaration** → `function greet() {}`
--   **Function Expression** → `const greet = function() {};`
--   **Arrow Function** → `const greet = () => {};`
-
-## 📌 Key Concepts
-
--   <b>Function Declaration</b>n:
-    -   <i>Hoisted:</i>
-    -   **Can be called before declaration**.
-    -   **Can be re-declared**.
+method
