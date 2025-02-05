@@ -2,7 +2,7 @@
 id: h6tq3ojhfqba0wrymvyny30
 title: Reduce
 desc: ''
-updated: 1738796926174
+updated: 1738796995247
 created: 1738708823732
 ---
 
@@ -147,6 +147,8 @@ console.log(sum); // Output: 15
 -   arrays
 
 ## Edge Cases
+
+-   If the array is empty and no `initialValue` is provided, a `TypeError` is thrown.
 
 ## Links
 
