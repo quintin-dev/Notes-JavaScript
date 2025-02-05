@@ -2,7 +2,7 @@
 id: h6tq3ojhfqba0wrymvyny30
 title: Reduce
 desc: ''
-updated: 1738709556736
+updated: 1738796926174
 created: 1738708823732
 ---
 
@@ -130,8 +130,24 @@ The return value of the `reduce()` method is the accumulated value that results 
 
 ## Examples
 
+### Example 1
+
+```js
+const numbers = [1, 2, 3, 4, 5];
+
+const sum = numbers.reduce(
+    (accumulator, currentValue) => accumulator + currentValue
+);
+
+console.log(sum); // Output: 15
+```
+
 ## Applicable To
+
+-   arrays
 
 ## Edge Cases
 
 ## Links
+
+-   [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce)
