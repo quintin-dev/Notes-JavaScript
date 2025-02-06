@@ -2,7 +2,7 @@
 id: lj3m0nwku9tr7btxxg7nkx7
 title: Web_audio
 desc: ''
-updated: 1738884350236
+updated: 1738884470253
 created: 1738884208814
 ---
 
@@ -112,3 +112,7 @@ Web Audio API is a high-level JavaScript API for processing and synthesizing aud
 ## How to use Web Audio API
 
 The Web Audio API involves handling audio operations inside an audio context, and has been designed to allow modular routing. Basic audio operations are performed with audio nodes, which are linked together to form an audio routing graph. Several sources — with different types of audio signals, user media, synthesized audio, etc. — are supported. These sources can be connected to several types of processing nodes that will process the audio data. After the audio has been processed, it is sent to the destination, usually the device that plays the audio.
+
+## Use Cases
+
+-   <b>Audio Visualization:</b> You can use the Web Audio API to create visualizations that react to the audio being played.
