@@ -2,7 +2,7 @@
 id: lj3m0nwku9tr7btxxg7nkx7
 title: Web_audio
 desc: ''
-updated: 1738884208814
+updated: 1738884285283
 created: 1738884208814
 ---
 
@@ -104,3 +104,7 @@ created: 1738884208814
     }
 </style>
 <!--#endregion-->
+
+## Overview
+
+Web Audio API is a high-level JavaScript API for processing and synthesizing audio in web applications. The goal of this API is to include capabilities found in modern game audio engines and some of the mixing, processing, and filtering tasks that are found in modern desktop audio production applications. The Web Audio API is a powerful feature that can be used to synthesize and process audio.
