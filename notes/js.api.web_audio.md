@@ -2,7 +2,7 @@
 id: lj3m0nwku9tr7btxxg7nkx7
 title: Web_audio
 desc: ''
-updated: 1738884470253
+updated: 1738885808814
 created: 1738884208814
 ---
 
@@ -116,3 +116,4 @@ The Web Audio API involves handling audio operations inside an audio context, an
 ## Use Cases
 
 -   <b>Audio Visualization:</b> You can use the Web Audio API to create visualizations that react to the audio being played.
+-   <b>Audio Effects:</b> You can use the Web Audio API to create audio effects like reverb, delay, and distortion.
