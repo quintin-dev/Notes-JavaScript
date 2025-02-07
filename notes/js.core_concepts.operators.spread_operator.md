@@ -2,7 +2,7 @@
 id: b9gkiqglqzx9xiquurkcrt9
 title: Spread_operator
 desc: ''
-updated: 1738970522281
+updated: 1738970563357
 created: 1738969862385
 ---
 
@@ -114,3 +114,5 @@ The spread operator is denoted by three dots `...` and is used to expand an arra
 The spread operator is used in the following ways:
 
 1. <b>Copying an array:</b> The spread operator is used to copy the elements of an array into another array.
+
+2. <b>Concatenating arrays:</b> The spread operator is used to concatenate two or more arrays.
