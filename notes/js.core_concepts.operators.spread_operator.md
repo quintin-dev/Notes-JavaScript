@@ -2,7 +2,7 @@
 id: b9gkiqglqzx9xiquurkcrt9
 title: Spread_operator
 desc: ''
-updated: 1738969862385
+updated: 1738970393156
 created: 1738969862385
 ---
 
@@ -104,3 +104,7 @@ created: 1738969862385
     }
 </style>
 <!--#endregion-->
+
+# Spread Operator
+
+The spread operator is a new addition to the set of operators in JavaScript ES6. It takes in an iterable (e.g an array) and expands it into individual elements. The spread operator is used to split up array elements or object properties.
