@@ -2,7 +2,7 @@
 id: b9gkiqglqzx9xiquurkcrt9
 title: Spread_operator
 desc: ''
-updated: 1738970471472
+updated: 1738970522281
 created: 1738969862385
 ---
 
@@ -110,3 +110,7 @@ created: 1738969862385
 The spread operator is a new addition to the set of operators in JavaScript ES6. It takes in an iterable (e.g an array) and expands it into individual elements. The spread operator is used to split up array elements or object properties.
 
 The spread operator is denoted by three dots `...` and is used to expand an array or object into individual elements. It is used to copy the elements of an array or object into another array or object.
+
+The spread operator is used in the following ways:
+
+1. <b>Copying an array:</b> The spread operator is used to copy the elements of an array into another array.
