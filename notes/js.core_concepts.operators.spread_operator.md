@@ -2,7 +2,7 @@
 id: b9gkiqglqzx9xiquurkcrt9
 title: Spread_operator
 desc: ''
-updated: 1738970563357
+updated: 1738970696937
 created: 1738969862385
 ---
 
@@ -116,3 +116,6 @@ The spread operator is used in the following ways:
 1. <b>Copying an array:</b> The spread operator is used to copy the elements of an array into another array.
 
 2. <b>Concatenating arrays:</b> The spread operator is used to concatenate two or more arrays.
+
+3. <b>Passing elements of an array as arguments:</b> The spread operator is used to pass the elements of an array as arguments to a function.
+4. <b>Copying an object:</b> The spread operator is used to copy the properties of an object into another object.
