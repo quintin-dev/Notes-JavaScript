@@ -2,7 +2,7 @@
 id: 5xdyy19hjae8cttumj9yi03
 title: Compare_callback
 desc: ''
-updated: 1739055127426
+updated: 1739055983718
 created: 1739054277697
 ---
 
@@ -120,12 +120,6 @@ created: 1739054277697
 ---
 
 ## 4. Return Values / Outcome
-
--   **Return Type:**  
-    Specify what type of data the function returns.
-
--   **Return Description:**  
-    Provide details on what the return value represents or any conditions that affect the returned result.
 
 ---
 
