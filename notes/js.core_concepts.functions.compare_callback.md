@@ -2,7 +2,7 @@
 id: 5xdyy19hjae8cttumj9yi03
 title: Compare_callback
 desc: ''
-updated: 1739056118225
+updated: 1739056166886
 created: 1739054277697
 ---
 
@@ -133,34 +133,13 @@ created: 1739054277697
 
 ## 7. Applicable Scenarios
 
--   **Primary Use Cases:**  
-    List specific cases or problems where this function type is especially useful.
-
--   **Alternatives:**  
-    If applicable, discuss alternatives or variations (e.g., using Promises or async/await instead of traditional callbacks).
-
 ---
 
 ## 8. Edge Cases & Pitfalls
 
--   **Edge Cases:**  
-    Detail any known edge cases (e.g., empty arrays for sort, missing callback functions).
-
--   **Common Pitfalls:**  
-    Include common mistakes (e.g., not handling asynchronous errors in callbacks, incorrect return values in compare functions).
-
--   **Workarounds / Best Practices:**  
-    Provide suggestions to avoid or manage these issues.
-
 ---
 
 ## 9. Performance & Optimization Considerations
-
--   **Performance Impact:**  
-    Discuss any potential performance considerations when using this function type.
-
--   **Optimizations:**  
-    Suggest improvements or optimizations if applicable.
 
 ---
 
