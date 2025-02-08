@@ -2,7 +2,7 @@
 id: 5xdyy19hjae8cttumj9yi03
 title: Compare_callback
 desc: ''
-updated: 1739056029985
+updated: 1739056087887
 created: 1739054277697
 ---
 
@@ -128,22 +128,6 @@ created: 1739054277697
 ---
 
 ## 6. Examples / Code Samples
-
--   **Basic Example:**
-
-    ```javascript
-    // Callback Function Example
-    function greet(name, callback) {
-        console.log(`Hello, ${name}!`);
-        callback();
-    }
-
-    function sayGoodbye() {
-        console.log('Goodbye!');
-    }
-
-    greet('Alice', sayGoodbye);
-    ```
 
 -   **Advanced/Specific Example:**
 
