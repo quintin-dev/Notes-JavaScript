@@ -2,7 +2,7 @@
 id: 5xdyy19hjae8cttumj9yi03
 title: Compare_callback
 desc: ''
-updated: 1739054809434
+updated: 1739055059185
 created: 1739054277697
 ---
 
@@ -108,15 +108,6 @@ created: 1739054277697
 # Function Documentation Template
 
 ## 1. Overview
-
--   **Function Name/Type:**  
-    _(e.g., Callback Function, Compare Callback Function, IIFE, etc.)_
-
--   **Definition:**  
-    A brief description of what this function type is and its purpose.
-
--   **When to Use:**  
-    Outline scenarios or contexts where this function type is most beneficial.
 
 ---
 
