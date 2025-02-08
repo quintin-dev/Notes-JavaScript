@@ -2,7 +2,7 @@
 id: 5xdyy19hjae8cttumj9yi03
 title: Compare_callback
 desc: ''
-updated: 1739055100340
+updated: 1739055127426
 created: 1739054277697
 ---
 
@@ -116,15 +116,6 @@ created: 1739054277697
 ---
 
 ## 3. Parameters / Arguments
-
--   **List of Parameters:**  
-    | Parameter | Type | Description | Default Value (if any) |
-    |--------------|------------|-------------------------------------------|------------------------|
-    | `param1` | _type_ | Brief description of what this parameter does. | _default value_ |
-    | `callback` | _function_ | For callback functions: the function to be executed. | N/A |
-
--   **Parameter Considerations:**  
-    Mention any important considerations (e.g., expected argument types, order, etc.).
 
 ---
 
