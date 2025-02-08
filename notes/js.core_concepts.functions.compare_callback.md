@@ -2,7 +2,7 @@
 id: 5xdyy19hjae8cttumj9yi03
 title: Compare_callback
 desc: ''
-updated: 1739055059185
+updated: 1739055100340
 created: 1739054277697
 ---
 
@@ -112,19 +112,6 @@ created: 1739054277697
 ---
 
 ## 2. Syntax
-
--   **General Syntax:**  
-    Provide the basic structure or declaration pattern of the function.
-
-    ```javascript
-    // Example for a callback function
-    function functionName(parameters, callback) {
-        // function body
-    }
-    ```
-
--   **Specific Syntax Details:**  
-    Note any particularities for this function type (e.g., return conventions for compare callbacks).
 
 ---
 
