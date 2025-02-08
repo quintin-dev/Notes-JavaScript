@@ -2,7 +2,7 @@
 id: 5xdyy19hjae8cttumj9yi03
 title: Compare_callback
 desc: ''
-updated: 1739056192691
+updated: 1739056216483
 created: 1739054277697
 ---
 
@@ -148,6 +148,3 @@ created: 1739054277697
 ---
 
 ## 11. Additional Notes
-
--   **Miscellaneous:**  
-    Any other relevant information, personal insights, or reminders for future reference.
