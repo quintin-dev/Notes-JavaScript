@@ -2,7 +2,7 @@
 id: 5xdyy19hjae8cttumj9yi03
 title: Compare_callback
 desc: ''
-updated: 1739056087887
+updated: 1739056118225
 created: 1739054277697
 ---
 
@@ -128,18 +128,6 @@ created: 1739054277697
 ---
 
 ## 6. Examples / Code Samples
-
--   **Advanced/Specific Example:**
-
-    ```javascript
-    // Compare Callback Function Example for Array.sort()
-    const numbers = [4, 2, 9, 1, 7];
-    numbers.sort((a, b) => a - b); // Ascending order
-    console.log(numbers); // Output: [1, 2, 4, 7, 9]
-    ```
-
--   **Usage Context:**  
-    Explain when or why you might use these examples in real-world scenarios.
 
 ---
 
