@@ -2,7 +2,7 @@
 id: 5xdyy19hjae8cttumj9yi03
 title: Compare_callback
 desc: ''
-updated: 1739055983718
+updated: 1739056029985
 created: 1739054277697
 ---
 
@@ -124,15 +124,6 @@ created: 1739054277697
 ---
 
 ## 5. Behavior & Characteristics
-
--   **Synchronous vs. Asynchronous:**  
-    Clarify if the function runs synchronously or if it involves asynchronous operations (e.g., callbacks in asynchronous flows).
-
--   **Side Effects:**  
-    Mention if the function modifies external state or if it's pure.
-
--   **Notable Behaviors:**  
-    Describe any unique behaviors (e.g., for compare callbacks, the return value must be negative, zero, or positive).
 
 ---
 
