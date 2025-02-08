@@ -2,7 +2,7 @@
 id: 5xdyy19hjae8cttumj9yi03
 title: Compare_callback
 desc: ''
-updated: 1739056166886
+updated: 1739056192691
 created: 1739054277697
 ---
 
@@ -144,14 +144,6 @@ created: 1739054277697
 ---
 
 ## 10. References & Further Reading
-
--   **Documentation:**
-
-    -   [MDN Web Docs](https://developer.mozilla.org/)
-    -   [JavaScript Info](https://javascript.info/)
-
--   **Tutorials / Articles:**
-    -   _Include links to tutorials, articles, or videos that further explain or demonstrate this function type._
 
 ---
 
