@@ -2,7 +2,7 @@
 id: wpydmg8akpnu5rs16n7jftb
 title: Callback
 desc: ''
-updated: 1738621362579
+updated: 1739142741895
 created: 1738621362579
 ---
 
@@ -104,3 +104,23 @@ created: 1738621362579
     }
 </style>
 <!--#endregion-->
+
+# Function Documentation Template
+
+## 1. Overview
+
+## 2. Syntax
+
+---
+
+## 3. Parameters / Arguments
+
+---
+
+## 4. Return Values / Outcome
+
+---
+
+## 5. Behavior & Characteristics
+
+---
