@@ -2,7 +2,7 @@
 id: wpydmg8akpnu5rs16n7jftb
 title: Callback
 desc: ''
-updated: 1739142741895
+updated: 1739142795138
 created: 1738621362579
 ---
 
@@ -124,3 +124,25 @@ created: 1738621362579
 ## 5. Behavior & Characteristics
 
 ---
+
+## 6. Examples / Code Samples
+
+---
+
+## 7. Applicable Scenarios
+
+---
+
+## 8. Edge Cases & Pitfalls
+
+---
+
+## 9. Performance & Optimization Considerations
+
+---
+
+## 10. References & Further Reading
+
+---
+
+## 11. Additional Notes
