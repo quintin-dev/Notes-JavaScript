@@ -2,7 +2,7 @@
 id: 5xdyy19hjae8cttumj9yi03
 title: Compare_callback
 desc: ''
-updated: 1739056216483
+updated: 1739142668604
 created: 1739054277697
 ---
 
@@ -108,8 +108,6 @@ created: 1739054277697
 # Function Documentation Template
 
 ## 1. Overview
-
----
 
 ## 2. Syntax
 
