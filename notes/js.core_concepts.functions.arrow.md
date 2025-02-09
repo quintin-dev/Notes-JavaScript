@@ -2,7 +2,7 @@
 id: 80u1dyllpivq4hcljh2ms1j
 title: Arrow
 desc: ''
-updated: 1738621385505
+updated: 1739142823006
 created: 1738621385505
 ---
 
@@ -104,3 +104,23 @@ created: 1738621385505
     }
 </style>
 <!--#endregion-->
+
+# Function Documentation Template
+
+## 1. Overview
+
+## 2. Syntax
+
+---
+
+## 3. Parameters / Arguments
+
+---
+
+## 4. Return Values / Outcome
+
+---
+
+## 5. Behavior & Characteristics
+
+---
