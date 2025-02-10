@@ -2,7 +2,7 @@
 id: 80u1dyllpivq4hcljh2ms1j
 title: Arrow
 desc: ''
-updated: 1739225142652
+updated: 1739225570013
 created: 1738621385505
 ---
 
@@ -105,11 +105,17 @@ created: 1738621385505
 </style>
 <!--#endregion-->
 
-# Function Documentation Template
-
 ## Overview
 
+Arrow functions provide a concise syntax for writing functions in JavaScript. They are particularly useful for non-method functions and are often used in functional programming.
+
 ## Syntax
+
+```javascript
+const functionName = (parameters) => {
+    // function body
+};
+```
 
 ## Parameters / Arguments
 
@@ -128,3 +134,7 @@ created: 1738621385505
 ## References & Further Reading
 
 ## Additional Notes
+
+```
+
+```
