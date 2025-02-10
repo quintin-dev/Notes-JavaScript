@@ -2,7 +2,7 @@
 id: 80u1dyllpivq4hcljh2ms1j
 title: Arrow
 desc: ''
-updated: 1739142844097
+updated: 1739225081306
 created: 1738621385505
 ---
 
@@ -111,38 +111,20 @@ created: 1738621385505
 
 ## 2. Syntax
 
----
-
 ## 3. Parameters / Arguments
-
----
 
 ## 4. Return Values / Outcome
 
----
-
 ## 5. Behavior & Characteristics
-
----
 
 ## 6. Examples / Code Samples
 
----
-
 ## 7. Applicable Scenarios
-
----
 
 ## 8. Edge Cases & Pitfalls
 
----
-
 ## 9. Performance & Optimization Considerations
 
----
-
 ## 10. References & Further Reading
-
----
 
 ## 11. Additional Notes
