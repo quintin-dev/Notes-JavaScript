@@ -2,7 +2,7 @@
 id: 80u1dyllpivq4hcljh2ms1j
 title: Arrow
 desc: ''
-updated: 1739225570013
+updated: 1739316127000
 created: 1738621385505
 ---
 
@@ -104,37 +104,3 @@ created: 1738621385505
     }
 </style>
 <!--#endregion-->
-
-## Overview
-
-Arrow functions provide a concise syntax for writing functions in JavaScript. They are particularly useful for non-method functions and are often used in functional programming.
-
-## Syntax
-
-```javascript
-const functionName = (parameters) => {
-    // function body
-};
-```
-
-## Parameters / Arguments
-
-## Return Values / Outcome
-
-## Behavior & Characteristics
-
-## Examples / Code Samples
-
-## Applicable Scenarios
-
-## Edge Cases & Pitfalls
-
-## Performance & Optimization Considerations
-
-## References & Further Reading
-
-## Additional Notes
-
-```
-
-```
