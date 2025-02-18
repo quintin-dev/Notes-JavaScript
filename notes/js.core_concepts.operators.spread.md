@@ -1,6 +1,6 @@
 ---
 id: b9gkiqglqzx9xiquurkcrt9
-title: Spread_operator
+title: Spread
 desc: ''
 updated: 1739906559064
 created: 1738969862385
