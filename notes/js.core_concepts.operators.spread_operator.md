@@ -1,6 +1,6 @@
 ---
-id: 787wcsz5jfbn5c8ph2ovosu
-title: Spread
+id: b9gkiqglqzx9xiquurkcrt9
+title: Spread_operator
 desc: ''
 updated: 1739906559064
 created: 1738969862385
