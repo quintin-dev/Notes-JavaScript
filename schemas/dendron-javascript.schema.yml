@@ -1,0 +1,114 @@
+version: 1
+# Top-level Dendron Schema definition for JavaScript
+
+schemas:
+    - id: js
+      desc: 'Top-level schema for all JavaScript notes'
+      # `namespace: true` allows this node (js) to contain sub-nodes
+      namespace: true
+
+      # For notes that do not match any of the defined children below,
+      # they'll still fall under js.* (the catch-all).
+      match: js
+
+      # Child schemas for main JavaScript topics:
+      children:
+          - id: core_concepts
+            desc: 'Fundamental JavaScript concepts (variables, data types, operators, etc.)'
+            namespace: true
+            match: js.core_concepts
+            children:
+                - id: variables
+                  desc: 'Notes on declaring and using variables in JavaScript'
+                  match: js.core_concepts.variables
+                - id: data_types
+                  desc: 'Primitive and reference data types in JavaScript'
+                  match: js.core_concepts.data_types
+                - id: operators
+                  desc: 'Arithmetic, comparison, logical, and other operators'
+                  match: js.core_concepts.operators
+                - id: conditionals
+                  desc: 'if, else if, switch, and other conditional statements'
+                  match: js.core_concepts.conditionals
+                - id: loops
+                  desc: 'for, while, do-while, for-in, for-of loops'
+                  match: js.core_concepts.loops
+
+          - id: syntax
+            desc: 'JavaScript syntax rules, statements, and general language structure'
+            match: js.syntax
+
+          - id: functions
+            desc: 'Function declarations, expressions, arrow functions, callbacks'
+            match: js.functions
+
+          - id: methods
+            desc: 'Built-in or custom methods (String, Array, etc.)'
+            namespace: true
+            match: js.methods
+            children:
+                - id: string
+                  desc: 'String methods (e.g., trim, split, slice, etc.)'
+                  match: js.methods.string
+                - id: array
+                  desc: 'Array methods (e.g., map, forEach, pop, join, etc.)'
+                  match: js.methods.array
+                - id: object
+                  desc: 'Object methods (keys, values, entries, etc.)'
+                  match: js.methods.object
+
+          - id: objects
+            desc: 'Object-oriented JavaScript concepts, prototypes, classes'
+            match: js.objects
+
+          - id: arrays
+            desc: 'Array fundamentals, multi-dimensional arrays, best practices'
+            match: js.arrays
+
+          - id: dom
+            desc: 'DOM manipulation, selectors, events, and browser APIs'
+            match: js.dom
+
+          - id: regex
+            desc: 'Regular Expressions usage, patterns, flags'
+            match: js.regex
+
+          - id: api
+            desc: 'Working with APIs, fetch, XMLHttpRequest, and related topics'
+            match: js.api
+
+          - id: web_audio
+            desc: 'Web Audio API usage, audio context, nodes, etc.'
+            match: js.web_audio
+
+          - id: data_structures
+            desc: 'Stacks, queues, sets, maps, and other DS in JavaScript'
+            match: js.data_structures
+
+          - id: frameworks
+            desc: 'Popular frameworks (React, Vue, Angular) and libraries'
+            match: js.frameworks
+
+          - id: modules
+            desc: 'ES Modules, CommonJS, imports/exports'
+            match: js.modules
+
+          - id: asynchronous
+            desc: 'Promises, async/await, callbacks, event loop'
+            match: js.asynchronous
+
+          - id: testing
+            desc: 'Testing frameworks (Jest, Mocha), best practices'
+            match: js.testing
+
+          - id: tooling
+            desc: 'NPM, Webpack, Babel, linting, transpiling, bundling'
+            match: js.tooling
+
+          - id: advanced
+            desc: 'Advanced topics (closures, currying, prototypes, performance, etc.)'
+            match: js.advanced
+
+          - id: best_practices
+            desc: 'Coding standards, style guides, security, performance tips'
+            match: js.best_practices
