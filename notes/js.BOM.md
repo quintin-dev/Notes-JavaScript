@@ -2,7 +2,7 @@
 id: d56bfd14w5pfy7u0hisjq1o
 title: BOM
 desc: ''
-updated: 1741488886729
+updated: 1741567211788
 created: 1741488886729
 ---
 
@@ -104,3 +104,15 @@ created: 1741488886729
     }
 </style>
 <!--#endregion-->
+
+## BOM (Browser Object Model)
+
+The Browser Object Model (BOM) is a collection of objects that allow JavaScript to interact with the browser. It provides methods and properties to manipulate the browser window, including the ability to open new windows, navigate to different URLs, and manage browser history.
+
+### Key Components of BOM
+
+-   **Window Object**: Represents the browser window and provides methods to control it.
+-   **Navigator Object**: Contains information about the browser and the operating system.
+-   **Screen Object**: Provides information about the user's screen, such as its width and height.
+-   **Location Object**: Represents the current URL and provides methods to manipulate it.
+-
