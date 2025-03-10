@@ -2,7 +2,7 @@
 id: d56bfd14w5pfy7u0hisjq1o
 title: BOM
 desc: ''
-updated: 1741567211788
+updated: 1741662427012
 created: 1741488886729
 ---
 
@@ -115,4 +115,12 @@ The Browser Object Model (BOM) is a collection of objects that allow JavaScript 
 -   **Navigator Object**: Contains information about the browser and the operating system.
 -   **Screen Object**: Provides information about the user's screen, such as its width and height.
 -   **Location Object**: Represents the current URL and provides methods to manipulate it.
+-   **History Object**: Allows access to the browser's session history, enabling navigation through previously visited pages.
 -
+-   **Document Object**: Represents the HTML document loaded in the browser and provides methods to manipulate its content.
+-   **XMLHttpRequest Object**: Used for making asynchronous HTTP requests to the server, enabling dynamic content loading without refreshing the page.
+-
+-   **Console Object**: Provides methods for logging messages to the browser's console, useful for debugging and testing.
+-   **Alert, Confirm, and Prompt Dialogs**: Methods for displaying alert messages, confirmation dialogs, and input prompts to the user.
+-   **Timers**: Functions like `setTimeout` and `setInterval` for scheduling code execution after a specified delay or at regular intervals.
+-   **Geolocation API**: Provides access to the user's geographical location, allowing for location-based services.
