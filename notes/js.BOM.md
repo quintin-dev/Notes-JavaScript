@@ -2,7 +2,7 @@
 id: d56bfd14w5pfy7u0hisjq1o
 title: BOM
 desc: ''
-updated: 1741662427012
+updated: 1742278200336
 created: 1741488886729
 ---
 
@@ -124,3 +124,25 @@ The Browser Object Model (BOM) is a collection of objects that allow JavaScript 
 -   **Alert, Confirm, and Prompt Dialogs**: Methods for displaying alert messages, confirmation dialogs, and input prompts to the user.
 -   **Timers**: Functions like `setTimeout` and `setInterval` for scheduling code execution after a specified delay or at regular intervals.
 -   **Geolocation API**: Provides access to the user's geographical location, allowing for location-based services.
+
+### Example of Using BOM
+
+```javascript
+// Open a new window
+var newWindow = window.open('https://www.example.com', '_blank');
+// Get the current URL
+var currentURL = window.location.href;
+console.log('Current URL: ' + currentURL);
+// Get the screen width and height
+var screenWidth = window.screen.width;
+var screenHeight = window.screen.height;
+```
+
+```javascript
+// Get the browser name and version
+var browserName = window.navigator.appName;
+var browserVersion = window.navigator.appVersion;
+console.log('Browser Name: ' + browserName);
+console.log('Browser Version: ' + browserVersion);
+// Get the user's screen width and height
+```
